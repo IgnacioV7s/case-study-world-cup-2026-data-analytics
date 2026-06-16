@@ -1,0 +1,1249 @@
+Tabla_Index,Numero,Posicion,Nombre,Edad_Fecha,Club
+0,1,1GK,Matěj Kovář,"(2000-05-17)May 17, 2000 (aged 26)",PSV Eindhoven
+0,2,2DF,David Zima,"(2000-11-08)November 8, 2000 (aged 25)",Slavia Prague
+0,3,2DF,Tomáš Holeš,"(1993-03-31)March 31, 1993 (aged 33)",Slavia Prague
+0,4,2DF,Robin Hranáč,"(2000-01-29)January 29, 2000 (aged 26)",TSG Hoffenheim
+0,5,2DF,Vladimír Coufal,"(1992-08-22)August 22, 1992 (aged 33)",TSG Hoffenheim
+0,6,2DF,Štěpán Chaloupek,"(2003-03-08)March 8, 2003 (aged 23)",Slavia Prague
+0,7,2DF,Ladislav Krejčí (captain),"(1999-04-20)April 20, 1999 (aged 27)",Wolverhampton Wanderers
+0,8,3MF,Vladimír Darida,"(1990-08-08)August 8, 1990 (aged 35)",Hradec Králové
+0,9,4FW,Adam Hložek,"(2002-07-25)July 25, 2002 (aged 23)",TSG Hoffenheim
+0,10,4FW,Patrik Schick,"(1996-01-24)January 24, 1996 (aged 30)",Bayer Leverkusen
+0,11,4FW,Jan Kuchta,"(1997-01-08)January 8, 1997 (aged 29)",Sparta Prague
+0,12,3MF,Lukáš Červ,"(2001-04-10)April 10, 2001 (aged 25)",Viktoria Plzeň
+0,13,4FW,Mojmír Chytil,"(1999-04-29)April 29, 1999 (aged 27)",Slavia Prague
+0,14,2DF,David Jurásek,"(2000-08-07)August 7, 2000 (aged 25)",Slavia Prague
+0,15,4FW,Pavel Šulc,"(2000-12-29)December 29, 2000 (aged 25)",Lyon
+0,16,1GK,Jindřich Staněk,"(1996-04-27)April 27, 1996 (aged 30)",Slavia Prague
+0,17,3MF,Lukáš Provod,"(1996-10-23)October 23, 1996 (aged 29)",Slavia Prague
+0,18,3MF,Michal Sadílek,"(1999-05-31)May 31, 1999 (aged 27)",Slavia Prague
+0,19,4FW,Tomáš Chorý,"(1995-01-26)January 26, 1995 (aged 31)",Slavia Prague
+0,20,2DF,Jaroslav Zelený,"(1992-08-20)August 20, 1992 (aged 33)",Sparta Prague
+0,21,2DF,David Douděra,"(1998-05-31)May 31, 1998 (aged 28)",Slavia Prague
+0,22,3MF,Tomáš Souček,"(1995-02-27)February 27, 1995 (aged 31)",West Ham United
+0,23,1GK,Lukáš Horníček,"(2002-07-13)July 13, 2002 (aged 23)",Braga
+0,24,3MF,Alexandr Sojka,"(2003-04-02)April 2, 2003 (aged 23)",Viktoria Plzeň
+0,25,3MF,Hugo Sochůrek,"(2008-06-07)June 7, 2008 (aged 18)",Sparta Prague
+0,26,4FW,Denis Višinský,"(2003-03-21)March 21, 2003 (aged 23)",Viktoria Plzeň
+1,1,1GK,Raúl Rangel,"(2000-02-25)February 25, 2000 (aged 26)",Guadalajara
+1,2,2DF,Jorge Sánchez,"(1997-12-10)December 10, 1997 (aged 28)",PAOK
+1,3,2DF,César Montes,"(1997-02-24)February 24, 1997 (aged 29)",Lokomotiv Moscow
+1,4,2DF,Edson Álvarez (captain),"(1997-10-24)October 24, 1997 (aged 28)",Fenerbahçe
+1,5,2DF,Johan Vásquez,"(1998-10-22)October 22, 1998 (aged 27)",Genoa
+1,6,3MF,Érik Lira,"(2000-05-08)May 8, 2000 (aged 26)",Cruz Azul
+1,7,3MF,Luis Romo,"(1995-06-05)June 5, 1995 (aged 31)",Guadalajara
+1,8,3MF,Álvaro Fidalgo,"(1997-04-09)April 9, 1997 (aged 29)",Real Betis
+1,9,4FW,Raúl Jiménez,"(1991-05-05)May 5, 1991 (aged 35)",Fulham
+1,10,4FW,Alexis Vega,"(1997-11-25)November 25, 1997 (aged 28)",Toluca
+1,11,4FW,Santiago Giménez,"(2001-04-18)April 18, 2001 (aged 25)",Milan
+1,12,1GK,Carlos Acevedo,"(1996-04-19)April 19, 1996 (aged 30)",Santos Laguna
+1,13,1GK,Guillermo Ochoa,"(1985-07-13)July 13, 1985 (aged 40)",AEL Limassol
+1,14,4FW,Armando González,"(2003-04-20)April 20, 2003 (aged 23)",Guadalajara
+1,15,2DF,Israel Reyes,"(2000-05-23)May 23, 2000 (aged 26)",América
+1,16,4FW,Julián Quiñones,"(1997-03-24)March 24, 1997 (aged 29)",Al-Qadsiah
+1,17,3MF,Orbelín Pineda,"(1996-03-24)March 24, 1996 (aged 30)",AEK Athens
+1,18,3MF,Obed Vargas,"(2005-08-05)August 5, 2005 (aged 20)",Atlético Madrid
+1,19,3MF,Gilberto Mora,"(2008-10-14)October 14, 2008 (aged 17)",Tijuana
+1,20,2DF,Mateo Chávez,"(2004-05-12)May 12, 2004 (aged 22)",AZ
+1,21,4FW,César Huerta,"(2000-12-03)December 3, 2000 (aged 25)",Anderlecht
+1,22,4FW,Guillermo Martínez,"(1995-03-15)March 15, 1995 (aged 31)",Pumas UNAM
+1,23,2DF,Jesús Gallardo,"(1994-08-15)August 15, 1994 (aged 31)",Toluca
+1,24,3MF,Luis Chávez,"(1996-01-15)January 15, 1996 (aged 30)",Dynamo Moscow
+1,25,4FW,Roberto Alvarado,"(1998-09-07)September 7, 1998 (aged 27)",Guadalajara
+1,26,3MF,Brian Gutiérrez,"(2003-06-17)June 17, 2003 (aged 22)",Guadalajara
+2,1,1GK,Ronwen Williams (captain),"(1992-01-21)January 21, 1992 (aged 34)",Mamelodi Sundowns
+2,2,2DF,Thabang Matuludi,"(1999-01-14)January 14, 1999 (aged 27)",Polokwane City
+2,3,2DF,Khulumani Ndamane,"(2004-02-05)February 5, 2004 (aged 22)",Mamelodi Sundowns
+2,4,3MF,Teboho Mokoena,"(1997-01-24)January 24, 1997 (aged 29)",Mamelodi Sundowns
+2,5,3MF,Thalente Mbatha,"(2000-03-06)March 6, 2000 (aged 26)",Orlando Pirates
+2,6,2DF,Aubrey Modiba,"(1995-07-22)July 22, 1995 (aged 30)",Mamelodi Sundowns
+2,7,4FW,Oswin Appollis,"(2001-08-25)August 25, 2001 (aged 24)",Orlando Pirates
+2,8,4FW,Tshepang Moremi,"(2000-10-02)October 2, 2000 (aged 25)",Orlando Pirates
+2,9,4FW,Lyle Foster,"(2000-09-03)September 3, 2000 (aged 25)",Burnley
+2,10,4FW,Relebohile Mofokeng,"(2004-10-23)October 23, 2004 (aged 21)",Orlando Pirates
+2,11,3MF,Themba Zwane,"(1989-08-03)August 3, 1989 (aged 36)",Mamelodi Sundowns
+2,12,4FW,Thapelo Maseko,"(2003-11-11)November 11, 2003 (aged 22)",AEL Limassol
+2,13,3MF,Sphephelo Sithole,"(1999-03-03)March 3, 1999 (aged 27)",Tondela
+2,14,2DF,Mbekezeli Mbokazi,"(2005-09-19)September 19, 2005 (aged 20)",Chicago Fire FC
+2,15,4FW,Iqraam Rayners,"(1995-12-19)December 19, 1995 (aged 30)",Mamelodi Sundowns
+2,16,1GK,Sipho Chaine,"(1996-12-14)December 14, 1996 (aged 29)",Orlando Pirates
+2,17,4FW,Evidence Makgopa,"(2000-06-05)June 5, 2000 (aged 26)",Orlando Pirates
+2,18,2DF,Samukele Kabini,"(2004-03-15)March 15, 2004 (aged 22)",Molde
+2,19,2DF,Nkosinathi Sibisi,"(1995-09-22)September 22, 1995 (aged 30)",Orlando Pirates
+2,20,2DF,Khuliso Mudau,"(1995-04-26)April 26, 1995 (aged 31)",Mamelodi Sundowns
+2,21,2DF,Ime Okon,"(2004-02-20)February 20, 2004 (aged 22)",Hannover 96
+2,22,1GK,Ricardo Goss,"(1994-04-02)April 2, 1994 (aged 32)",Siwelele
+2,23,3MF,Jayden Adams,"(2001-05-05)May 5, 2001 (aged 25)",Mamelodi Sundowns
+2,24,2DF,Olwethu Makhanya,"(2004-04-30)April 30, 2004 (aged 22)",Philadelphia Union
+2,25,4FW,Kamogelo Sebelebele,"(2002-07-21)July 21, 2002 (aged 23)",Orlando Pirates
+2,26,2DF,Bradley Cross,"(2001-01-30)January 30, 2001 (aged 25)",Kaizer Chiefs
+3,1,1GK,Kim Seung-gyu,"(1990-09-30)September 30, 1990 (aged 35)",FC Tokyo
+3,2,2DF,Lee Han-beom,"(2002-06-17)June 17, 2002 (aged 23)",Midtjylland
+3,3,3MF,Lee Gi-hyuk,"(2000-07-07)July 7, 2000 (aged 25)",Gangwon FC
+3,4,2DF,Kim Min-jae,"(1996-11-15)November 15, 1996 (aged 29)",Bayern Munich
+3,5,2DF,Kim Tae-hyeon,"(2000-09-17)September 17, 2000 (aged 25)",Kashima Antlers
+3,6,3MF,Hwang In-beom,"(1996-09-20)September 20, 1996 (aged 29)",Feyenoord
+3,7,4FW,Son Heung-min (captain),"(1992-07-08)July 8, 1992 (aged 33)",Los Angeles FC
+3,8,3MF,Paik Seung-ho,"(1997-03-17)March 17, 1997 (aged 29)",Birmingham City
+3,9,4FW,Cho Gue-sung,"(1998-01-25)January 25, 1998 (aged 28)",Midtjylland
+3,10,3MF,Lee Jae-sung,"(1992-08-10)August 10, 1992 (aged 33)",Mainz 05
+3,11,3MF,Hwang Hee-chan,"(1996-01-26)January 26, 1996 (aged 30)",Wolverhampton Wanderers
+3,12,1GK,Song Bum-keun,"(1997-10-15)October 15, 1997 (aged 28)",Jeonbuk Hyundai Motors
+3,13,2DF,Lee Tae-seok,"(2002-07-28)July 28, 2002 (aged 23)",Austria Wien
+3,14,2DF,Cho Wi-je,"(2001-08-25)August 25, 2001 (aged 24)",Jeonbuk Hyundai Motors
+3,15,2DF,Kim Moon-hwan,"(1995-08-01)August 1, 1995 (aged 30)",Daejeon Hana Citizen
+3,16,2DF,Park Jin-seob,"(1995-10-23)October 23, 1995 (aged 30)",Zhejiang
+3,17,3MF,Bae Jun-ho,"(2003-08-21)August 21, 2003 (aged 22)",Stoke City
+3,18,4FW,Oh Hyeon-gyu,"(2001-04-12)April 12, 2001 (aged 25)",Beşiktaş
+3,19,3MF,Lee Kang-in,"(2001-02-19)February 19, 2001 (aged 25)",Paris Saint-Germain
+3,20,3MF,Yang Hyun-jun,"(2002-05-25)May 25, 2002 (aged 24)",Celtic
+3,21,1GK,Jo Hyeon-woo,"(1991-09-25)September 25, 1991 (aged 34)",Ulsan HD
+3,22,2DF,Seol Young-woo,"(1998-12-05)December 5, 1998 (aged 27)",Red Star Belgrade
+3,23,2DF,Jens Castrop,"(2003-07-29)July 29, 2003 (aged 22)",Borussia Mönchengladbach
+3,24,3MF,Kim Jin-gyu,"(1997-02-24)February 24, 1997 (aged 29)",Jeonbuk Hyundai Motors
+3,25,3MF,Eom Ji-sung,"(2002-05-09)May 9, 2002 (aged 24)",Swansea City
+3,26,3MF,Lee Dong-gyeong,"(1997-09-20)September 20, 1997 (aged 28)",Ulsan HD
+4,1,1GK,Nikola Vasilj,"(1995-12-02)December 2, 1995 (aged 30)",FC St. Pauli
+4,2,2DF,Nihad Mujakić,"(1998-04-15)April 15, 1998 (aged 28)",Gaziantep
+4,3,2DF,Dennis Hadžikadunić,"(1998-07-09)July 9, 1998 (aged 27)",Sampdoria
+4,4,2DF,Tarik Muharemović,"(2003-02-28)February 28, 2003 (aged 23)",Sassuolo
+4,5,2DF,Sead Kolašinac,"(1993-06-20)June 20, 1993 (aged 32)",Atalanta
+4,6,3MF,Benjamin Tahirović,"(2003-03-03)March 3, 2003 (aged 23)",Brøndby
+4,7,2DF,Amar Dedić,"(2002-08-18)August 18, 2002 (aged 23)",Benfica
+4,8,3MF,Armin Gigović,"(2002-04-06)April 6, 2002 (aged 24)",Young Boys
+4,9,4FW,Samed Baždar,"(2004-01-31)January 31, 2004 (aged 22)",Jagiellonia Białystok
+4,10,4FW,Ermedin Demirović,"(1998-03-25)March 25, 1998 (aged 28)",VfB Stuttgart
+4,11,4FW,Edin Džeko (captain),"(1986-03-17)March 17, 1986 (aged 40)",Schalke 04
+4,12,1GK,Mladen Jurkas,"(2007-10-07)October 7, 2007 (aged 18)",Borac Banja Luka
+4,13,3MF,Ivan Bašić,"(2002-04-30)April 30, 2002 (aged 24)",Astana
+4,14,3MF,Ivan Šunjić,"(1996-10-09)October 9, 1996 (aged 29)",Pafos
+4,15,3MF,Amar Memić,"(2001-01-20)January 20, 2001 (aged 25)",Viktoria Plzeň
+4,16,3MF,Amir Hadžiahmetović,"(1997-03-08)March 8, 1997 (aged 29)",Hull City
+4,17,3MF,Dženis Burnić,"(1998-05-22)May 22, 1998 (aged 28)",Karlsruher SC
+4,18,2DF,Nikola Katić,"(1996-10-10)October 10, 1996 (aged 29)",Schalke 04
+4,19,4FW,Kerim Alajbegović,"(2007-09-21)September 21, 2007 (aged 18)",Red Bull Salzburg
+4,20,4FW,Esmir Bajraktarević,"(2005-03-10)March 10, 2005 (aged 21)",PSV Eindhoven
+4,21,2DF,Stjepan Radeljić,"(1997-09-05)September 5, 1997 (aged 28)",Rijeka
+4,22,1GK,Martin Zlomislić,"(1998-08-16)August 16, 1998 (aged 27)",Rijeka
+4,23,4FW,Haris Tabaković,"(1994-06-20)June 20, 1994 (aged 31)",Borussia Mönchengladbach
+4,24,2DF,Arjan Malić,"(2005-08-28)August 28, 2005 (aged 20)",Sturm Graz
+4,25,4FW,Jovo Lukić,"(1998-11-28)November 28, 1998 (aged 27)",Universitatea Cluj
+4,26,3MF,Ermin Mahmić,"(2005-03-14)March 14, 2005 (aged 21)",Slovan Liberec
+5,1,1GK,Dayne St. Clair,"(1997-05-09)May 9, 1997 (aged 29)",Inter Miami CF
+5,2,2DF,Alistair Johnston,"(1998-10-08)October 8, 1998 (aged 27)",Celtic
+5,3,2DF,Alfie Jones,"(1997-10-07)October 7, 1997 (aged 28)",Middlesbrough
+5,4,2DF,Luc de Fougerolles,"(2005-10-12)October 12, 2005 (aged 20)",Dender
+5,5,2DF,Joel Waterman,"(1996-01-24)January 24, 1996 (aged 30)",Chicago Fire FC
+5,6,3MF,Mathieu Choinière,"(1999-02-07)February 7, 1999 (aged 27)",Los Angeles FC
+5,7,3MF,Stephen Eustáquio,"(1996-12-21)December 21, 1996 (aged 29)",Los Angeles FC
+5,8,3MF,Ismaël Koné,"(2002-06-16)June 16, 2002 (aged 23)",Sassuolo
+5,9,4FW,Cyle Larin,"(1995-04-17)April 17, 1995 (aged 31)",Southampton
+5,10,4FW,Jonathan David,"(2000-01-14)January 14, 2000 (aged 26)",Juventus
+5,11,3MF,Liam Millar,"(1999-09-27)September 27, 1999 (aged 26)",Hull City
+5,12,4FW,Tani Oluwaseyi,"(2000-05-15)May 15, 2000 (aged 26)",Villarreal
+5,13,2DF,Derek Cornelius,"(1997-11-25)November 25, 1997 (aged 28)",Rangers
+5,14,3MF,Jacob Shaffelburg,"(1999-11-26)November 26, 1999 (aged 26)",Los Angeles FC
+5,15,2DF,Moïse Bombito,"(2000-03-30)March 30, 2000 (aged 26)",Nice
+5,16,1GK,Maxime Crépeau,"(1994-05-11)May 11, 1994 (aged 32)",Orlando City SC
+5,17,4FW,Tajon Buchanan,"(1999-02-08)February 8, 1999 (aged 27)",Villarreal
+5,18,1GK,Owen Goodman,"(2003-11-27)November 27, 2003 (aged 22)",Barnsley
+5,19,2DF,Alphonso Davies (captain),"(2000-11-02)November 2, 2000 (aged 25)",Bayern Munich
+5,20,4FW,Ali Ahmed,"(2000-10-10)October 10, 2000 (aged 25)",Norwich City
+5,21,3MF,Jonathan Osorio,"(1992-06-12)June 12, 1992 (aged 33)",Toronto FC
+5,22,2DF,Richie Laryea,"(1995-01-07)January 7, 1995 (aged 31)",Toronto FC
+5,23,2DF,Niko Sigur,"(2003-09-09)September 9, 2003 (aged 22)",Hajduk Split
+5,24,4FW,Promise David,"(2001-07-03)July 3, 2001 (aged 24)",Union Saint-Gilloise
+5,25,3MF,Nathan Saliba,"(2004-02-07)February 7, 2004 (aged 22)",Anderlecht
+5,26,4FW,Jayden Nelson,"(2002-09-26)September 26, 2002 (aged 23)",Austin FC
+6,1,1GK,Mahmud Abunada,"(2000-02-05)February 5, 2000 (aged 26)",Al-Rayyan
+6,2,2DF,Pedro Miguel,"(1990-08-06)August 6, 1990 (aged 35)",Al-Sadd
+6,3,2DF,Lucas Mendes,"(1990-07-03)July 3, 1990 (aged 35)",Al-Wakrah
+6,4,2DF,Issa Laye,"(1997-12-22)December 22, 1997 (aged 28)",Al-Arabi
+6,5,2DF,Jassem Gaber,"(2002-02-20)February 20, 2002 (aged 24)",Al-Rayyan
+6,6,3MF,Abdulaziz Hatem,"(1990-01-01)January 1, 1990 (aged 36)",Al-Rayyan
+6,7,4FW,Ahmed Alaaeldin,"(1993-01-31)January 31, 1993 (aged 33)",Al-Rayyan
+6,8,4FW,Edmilson Junior,"(1994-08-19)August 19, 1994 (aged 31)",Al-Duhail
+6,9,4FW,Mohammed Muntari,"(1993-12-20)December 20, 1993 (aged 32)",Al-Gharafa
+6,10,4FW,Hassan Al-Haydos (captain),"(1990-12-11)December 11, 1990 (aged 35)",Al-Sadd
+6,11,4FW,Akram Afif,"(1996-11-18)November 18, 1996 (aged 29)",Al-Sadd
+6,12,3MF,Karim Boudiaf,"(1990-09-16)September 16, 1990 (aged 35)",Al-Duhail
+6,13,2DF,Ayoub Al-Oui,"(2005-03-11)March 11, 2005 (aged 21)",Al-Gharafa
+6,14,2DF,Homam Ahmed,"(1999-08-25)August 25, 1999 (aged 26)",Cultural Leonesa
+6,15,4FW,Yusuf Abdurisag,"(1999-08-06)August 6, 1999 (aged 26)",Al-Wakrah
+6,16,2DF,Boualem Khoukhi,"(1990-07-09)July 9, 1990 (aged 35)",Al-Sadd
+6,17,3MF,Ahmed Al-Ganehi,"(2000-09-22)September 22, 2000 (aged 25)",Al-Gharafa
+6,18,2DF,Sultan Al-Brake,"(1996-04-07)April 7, 1996 (aged 30)",Al-Duhail
+6,19,4FW,Almoez Ali,"(1996-08-19)August 19, 1996 (aged 29)",Al-Duhail
+6,20,3MF,Ahmed Fathy,"(1993-01-25)January 25, 1993 (aged 33)",Al-Arabi
+6,21,1GK,Salah Zakaria,"(1999-04-24)April 24, 1999 (aged 27)",Al-Duhail
+6,22,1GK,Meshaal Barsham,"(1998-02-14)February 14, 1998 (aged 28)",Al-Sadd
+6,23,3MF,Assim Madibo,"(1996-10-22)October 22, 1996 (aged 29)",Al-Wakrah
+6,24,4FW,Tahsin Jamshid,"(2006-06-16)June 16, 2006 (aged 19)",Al-Duhail
+6,25,2DF,Al-Hashmi Al-Hussain,"(2003-08-15)August 15, 2003 (aged 22)",Al-Arabi
+6,26,4FW,Mohamed Manai,"(2002-10-25)October 25, 2002 (aged 23)",Al-Shamal
+7,1,1GK,Gregor Kobel,"(1997-12-06)December 6, 1997 (aged 28)",Borussia Dortmund
+7,2,2DF,Miro Muheim,"(1998-03-24)March 24, 1998 (aged 28)",Hamburger SV
+7,3,2DF,Silvan Widmer,"(1993-03-05)March 5, 1993 (aged 33)",Mainz 05
+7,4,2DF,Nico Elvedi,"(1996-09-30)September 30, 1996 (aged 29)",Borussia Mönchengladbach
+7,5,2DF,Manuel Akanji,"(1995-07-19)July 19, 1995 (aged 30)",Inter Milan
+7,6,3MF,Denis Zakaria,"(1996-11-20)November 20, 1996 (aged 29)",Monaco
+7,7,4FW,Breel Embolo,"(1997-02-14)February 14, 1997 (aged 29)",Rennes
+7,8,3MF,Remo Freuler,"(1992-04-15)April 15, 1992 (aged 34)",Bologna
+7,9,3MF,Johan Manzambi,"(2005-10-14)October 14, 2005 (aged 20)",SC Freiburg
+7,10,3MF,Granit Xhaka (captain),"(1992-09-27)September 27, 1992 (aged 33)",Sunderland
+7,11,4FW,Dan Ndoye,"(2000-10-25)October 25, 2000 (aged 25)",Nottingham Forest
+7,12,1GK,Yvon Mvogo,"(1994-06-06)June 6, 1994 (aged 32)",Lorient
+7,13,2DF,Ricardo Rodriguez,"(1992-08-25)August 25, 1992 (aged 33)",Real Betis
+7,14,3MF,Ardon Jashari,"(2002-07-30)July 30, 2002 (aged 23)",Milan
+7,15,3MF,Djibril Sow,"(1997-02-06)February 6, 1997 (aged 29)",Sevilla
+7,16,4FW,Christian Fassnacht,"(1993-11-11)November 11, 1993 (aged 32)",Young Boys
+7,17,4FW,Rubén Vargas,"(1998-08-05)August 5, 1998 (aged 27)",Sevilla
+7,18,2DF,Eray Cömert,"(1998-02-04)February 4, 1998 (aged 28)",Valencia
+7,19,4FW,Noah Okafor,"(2000-05-24)May 24, 2000 (aged 26)",Leeds United
+7,20,3MF,Michel Aebischer,"(1997-01-06)January 6, 1997 (aged 29)",Pisa
+7,21,1GK,Marvin Keller,"(2002-07-03)July 3, 2002 (aged 23)",Young Boys
+7,22,3MF,Fabian Rieder,"(2002-02-16)February 16, 2002 (aged 24)",FC Augsburg
+7,23,4FW,Zeki Amdouni,"(2000-12-04)December 4, 2000 (aged 25)",Burnley
+7,24,2DF,Aurèle Amenda,"(2003-07-31)July 31, 2003 (aged 22)",Eintracht Frankfurt
+7,25,2DF,Luca Jaquez,"(2003-06-02)June 2, 2003 (aged 23)",VfB Stuttgart
+7,26,4FW,Cedric Itten,"(1996-12-27)December 27, 1996 (aged 29)",Fortuna Düsseldorf
+8,1,1GK,Alisson,"(1992-10-02)October 2, 1992 (aged 33)",Liverpool
+8,2,3MF,Éderson Silva,"(1999-07-07)July 7, 1999 (aged 26)",Atalanta
+8,3,2DF,Gabriel Magalhães,"(1997-12-19)December 19, 1997 (aged 28)",Arsenal
+8,4,2DF,Marquinhos (captain),"(1994-05-14)May 14, 1994 (aged 32)",Paris Saint-Germain
+8,5,3MF,Casemiro,"(1992-02-23)February 23, 1992 (aged 34)",Manchester United
+8,6,2DF,Alex Sandro,"(1991-01-26)January 26, 1991 (aged 35)",Flamengo
+8,7,4FW,Vinícius Júnior,"(2000-07-12)July 12, 2000 (aged 25)",Real Madrid
+8,8,3MF,Bruno Guimarães,"(1997-11-16)November 16, 1997 (aged 28)",Newcastle United
+8,9,4FW,Matheus Cunha,"(1999-05-27)May 27, 1999 (aged 27)",Manchester United
+8,10,4FW,Neymar,"(1992-02-05)February 5, 1992 (aged 34)",Santos
+8,11,4FW,Raphinha,"(1996-12-14)December 14, 1996 (aged 29)",Barcelona
+8,12,1GK,Weverton,"(1987-12-13)December 13, 1987 (aged 38)",Grêmio
+8,13,2DF,Danilo Luiz,"(1991-07-15)July 15, 1991 (aged 34)",Flamengo
+8,14,2DF,Bremer,"(1997-03-18)March 18, 1997 (aged 29)",Juventus
+8,15,2DF,Léo Pereira,"(1996-01-31)January 31, 1996 (aged 30)",Flamengo
+8,16,2DF,Douglas Santos,"(1994-03-22)March 22, 1994 (aged 32)",Zenit Saint Petersburg
+8,17,3MF,Fabinho,"(1993-10-23)October 23, 1993 (aged 32)",Al-Ittihad
+8,18,3MF,Danilo Santos,"(2001-04-29)April 29, 2001 (aged 25)",Botafogo
+8,19,4FW,Endrick,"(2006-07-21)July 21, 2006 (aged 19)",Lyon
+8,20,3MF,Lucas Paquetá,"(1997-08-27)August 27, 1997 (aged 28)",Flamengo
+8,21,4FW,Luiz Henrique,"(2001-01-02)January 2, 2001 (aged 25)",Zenit Saint Petersburg
+8,22,4FW,Gabriel Martinelli,"(2001-06-18)June 18, 2001 (aged 24)",Arsenal
+8,23,1GK,Ederson Moraes,"(1993-08-17)August 17, 1993 (aged 32)",Fenerbahçe
+8,24,2DF,Roger Ibañez,"(1998-11-23)November 23, 1998 (aged 27)",Al-Ahli
+8,25,4FW,Igor Thiago,"(2001-06-26)June 26, 2001 (aged 24)",Brentford
+8,26,4FW,Rayan,"(2006-08-03)August 3, 2006 (aged 19)",Bournemouth
+9,1,1GK,Johny Placide (captain),"(1988-01-29)January 29, 1988 (aged 38)",Bastia
+9,2,2DF,Carlens Arcus,"(1996-06-28)June 28, 1996 (aged 29)",Angers
+9,3,2DF,Keeto Thermoncy,"(2006-03-29)March 29, 2006 (aged 20)",Young Boys
+9,4,2DF,Ricardo Adé,"(1990-05-21)May 21, 1990 (aged 36)",LDU Quito
+9,5,2DF,Hannes Delcroix,"(1999-02-28)February 28, 1999 (aged 27)",Lugano
+9,6,3MF,Carl Sainté,"(2002-08-09)August 9, 2002 (aged 23)",El Paso Locomotive FC
+9,7,4FW,Derrick Etienne Jr.,"(1996-11-25)November 25, 1996 (aged 29)",Toronto FC
+9,8,2DF,Martin Expérience,"(1999-03-09)March 9, 1999 (aged 27)",Nancy
+9,9,4FW,Duckens Nazon,"(1994-04-07)April 7, 1994 (aged 32)",Esteghlal
+9,10,3MF,Jean-Ricner Bellegarde,"(1998-06-27)June 27, 1998 (aged 27)",Wolverhampton Wanderers
+9,11,4FW,Louicius Deedson,"(2001-02-11)February 11, 2001 (aged 25)",FC Dallas
+9,12,1GK,Alexandre Pierre,"(2001-02-25)February 25, 2001 (aged 25)",Sochaux
+9,13,2DF,Duke Lacroix,"(1993-10-14)October 14, 1993 (aged 32)",Colorado Springs Switchbacks FC
+9,14,2DF,Garven Metusala,"(1999-12-31)December 31, 1999 (aged 26)",Colorado Springs Switchbacks FC
+9,15,4FW,Ruben Providence,"(2001-07-07)July 7, 2001 (aged 24)",Almere City
+9,16,4FW,Lenny Joseph,"(2000-10-12)October 12, 2000 (aged 25)",Ferencváros
+9,17,3MF,Danley Jean Jacques,"(2000-05-20)May 20, 2000 (aged 26)",Philadelphia Union
+9,18,4FW,Wilson Isidor,"(2000-08-27)August 27, 2000 (aged 25)",Sunderland
+9,19,4FW,Yassin Fortuné,"(1999-01-30)January 30, 1999 (aged 27)",Vizela
+9,20,4FW,Frantzdy Pierrot,"(1995-03-29)March 29, 1995 (aged 31)",Çaykur Rizespor
+9,21,4FW,Josué Casimir,"(2001-09-24)September 24, 2001 (aged 24)",Auxerre
+9,22,2DF,Jean-Kévin Duverne,"(1997-07-12)July 12, 1997 (aged 28)",Gent
+9,23,1GK,Josué Duverger,"(2000-04-27)April 27, 2000 (aged 26)",Cosmos Koblenz
+9,24,2DF,Wilguens Paugain,"(2001-08-24)August 24, 2001 (aged 24)",Zulte Waregem
+9,25,3MF,Dominique Simon,"(2000-07-29)July 29, 2000 (aged 25)",Tatran Prešov
+9,26,3MF,Woodensky Pierre,"(2004-12-30)December 30, 2004 (aged 21)",Violette
+10,1,1GK,Yassine Bounou,"(1991-04-05)April 5, 1991 (aged 35)",Al-Hilal
+10,2,2DF,Achraf Hakimi (captain),"(1998-11-04)November 4, 1998 (aged 27)",Paris Saint-Germain
+10,3,2DF,Noussair Mazraoui,"(1997-11-14)November 14, 1997 (aged 28)",Manchester United
+10,4,3MF,Sofyan Amrabat,"(1996-08-21)August 21, 1996 (aged 29)",Real Betis
+10,5,2DF,Marwane Saâdane,"(1992-01-17)January 17, 1992 (aged 34)",Al-Fateh
+10,6,3MF,Ayyoub Bouaddi,"(2007-10-02)October 2, 2007 (aged 18)",Lille
+10,7,3MF,Chemsdine Talbi,"(2005-05-09)May 9, 2005 (aged 21)",Sunderland
+10,8,3MF,Azzedine Ounahi,"(2000-04-19)April 19, 2000 (aged 26)",Girona
+10,9,4FW,Soufiane Rahimi,"(1996-06-02)June 2, 1996 (aged 30)",Al Ain
+10,10,4FW,Brahim Díaz,"(1999-08-03)August 3, 1999 (aged 26)",Real Madrid
+10,11,3MF,Ismael Saibari,"(2001-01-28)January 28, 2001 (aged 25)",PSV Eindhoven
+10,12,1GK,Munir Mohamedi,"(1989-05-10)May 10, 1989 (aged 37)",RS Berkane
+10,13,2DF,Zakaria El Ouahdi,"(2001-12-31)December 31, 2001 (aged 24)",Genk
+10,14,2DF,Issa Diop,"(1997-01-09)January 9, 1997 (aged 29)",Fulham
+10,15,3MF,Samir El Mourabet,"(2005-10-06)October 6, 2005 (aged 20)",Strasbourg
+10,16,3MF,Gessime Yassine,"(2005-11-22)November 22, 2005 (aged 20)",Strasbourg
+10,17,4FW,Amine Sbaï,"(2000-11-05)November 5, 2000 (aged 25)",Angers
+10,18,2DF,Chadi Riad,"(2003-06-17)June 17, 2003 (aged 22)",Crystal Palace
+10,19,2DF,Youssef Belammari,"(1998-09-20)September 20, 1998 (aged 27)",Al Ahly
+10,20,4FW,Ayoub El Kaabi,"(1993-06-25)June 25, 1993 (aged 32)",Olympiacos
+10,21,4FW,Ayoube Amaimouni,"(2004-11-30)November 30, 2004 (aged 21)",Eintracht Frankfurt
+10,22,1GK,Ahmed Reda Tagnaouti,"(1996-04-05)April 5, 1996 (aged 30)",AS FAR
+10,23,3MF,Bilal El Khannouss,"(2004-05-10)May 10, 2004 (aged 22)",VfB Stuttgart
+10,24,3MF,Neil El Aynaoui,"(2001-07-02)July 2, 2001 (aged 24)",Roma
+10,25,2DF,Redouane Halhal,"(2003-03-05)March 5, 2003 (aged 23)",Mechelen
+10,26,2DF,Anass Salah-Eddine,"(2002-01-18)January 18, 2002 (aged 24)",PSV Eindhoven
+11,1,1GK,Angus Gunn,"(1996-01-22)January 22, 1996 (aged 30)",Nottingham Forest
+11,2,2DF,Aaron Hickey,"(2002-06-10)June 10, 2002 (aged 24)",Brentford
+11,3,2DF,Andy Robertson (captain),"(1994-03-11)March 11, 1994 (aged 32)",Liverpool
+11,4,3MF,Scott McTominay,"(1996-12-08)December 8, 1996 (aged 29)",Napoli
+11,5,2DF,Grant Hanley,"(1991-11-20)November 20, 1991 (aged 34)",Hibernian
+11,6,2DF,Kieran Tierney,"(1997-06-05)June 5, 1997 (aged 29)",Celtic
+11,7,3MF,John McGinn,"(1994-10-18)October 18, 1994 (aged 31)",Aston Villa
+11,8,3MF,Tyler Fletcher,"(2007-03-19)March 19, 2007 (aged 19)",Manchester United
+11,9,4FW,Lyndon Dykes,"(1995-10-07)October 7, 1995 (aged 30)",Charlton Athletic
+11,10,4FW,Ché Adams,"(1996-07-13)July 13, 1996 (aged 29)",Torino
+11,11,3MF,Ryan Christie,"(1995-02-22)February 22, 1995 (aged 31)",Bournemouth
+11,12,1GK,Liam Kelly,"(1996-01-23)January 23, 1996 (aged 30)",Rangers
+11,13,2DF,Jack Hendry,"(1995-05-07)May 7, 1995 (aged 31)",Al-Ettifaq
+11,14,4FW,Ross Stewart,"(1996-07-11)July 11, 1996 (aged 29)",Southampton
+11,15,2DF,John Souttar,"(1996-09-25)September 25, 1996 (aged 29)",Rangers
+11,16,2DF,Dominic Hyam,"(1995-12-20)December 20, 1995 (aged 30)",Wrexham
+11,17,4FW,Ben Gannon-Doak,"(2005-11-11)November 11, 2005 (aged 20)",Bournemouth
+11,18,4FW,George Hirst,"(1999-02-15)February 15, 1999 (aged 27)",Ipswich Town
+11,19,3MF,Lewis Ferguson,"(1999-08-24)August 24, 1999 (aged 26)",Bologna
+11,20,4FW,Lawrence Shankland,"(1995-08-10)August 10, 1995 (aged 30)",Heart of Midlothian
+11,21,1GK,Craig Gordon,"(1982-12-31)December 31, 1982 (aged 43)",Heart of Midlothian
+11,22,2DF,Nathan Patterson,"(2001-10-16)October 16, 2001 (aged 24)",Everton
+11,23,3MF,Kenny McLean,"(1992-01-08)January 8, 1992 (aged 34)",Norwich City
+11,24,2DF,Anthony Ralston,"(1998-11-16)November 16, 1998 (aged 27)",Celtic
+11,25,4FW,Findlay Curtis,"(2006-06-09)June 9, 2006 (aged 20)",Kilmarnock
+11,26,2DF,Scott McKenna,"(1996-11-12)November 12, 1996 (aged 29)",Dinamo Zagreb
+12,1,1GK,Mathew Ryan (captain),"(1992-04-08)April 8, 1992 (aged 34)",Levante
+12,2,2DF,Miloš Degenek,"(1994-04-28)April 28, 1994 (aged 32)",APOEL
+12,3,2DF,Alessandro Circati,"(2003-10-10)October 10, 2003 (aged 22)",Parma
+12,4,2DF,Jacob Italiano,"(2001-07-30)July 30, 2001 (aged 24)",Grazer AK
+12,5,2DF,Jordan Bos,"(2002-10-29)October 29, 2002 (aged 23)",Feyenoord
+12,6,2DF,Jason Geria,"(1993-05-10)May 10, 1993 (aged 33)",Albirex Niigata
+12,7,4FW,Mathew Leckie,"(1991-02-04)February 4, 1991 (aged 35)",Melbourne City
+12,8,3MF,Connor Metcalfe,"(1999-11-05)November 5, 1999 (aged 26)",FC St. Pauli
+12,9,4FW,Mohamed Touré,"(2004-03-26)March 26, 2004 (aged 22)",Norwich City
+12,10,4FW,Ajdin Hrustic,"(1996-07-05)July 5, 1996 (aged 29)",Heracles Almelo
+12,11,4FW,Awer Mabil,"(1995-09-15)September 15, 1995 (aged 30)",Castellón
+12,12,1GK,Paul Izzo,"(1995-01-06)January 6, 1995 (aged 31)",Randers
+12,13,3MF,Aiden O'Neill,"(1998-07-04)July 4, 1998 (aged 27)",New York City FC
+12,14,3MF,Cammy Devlin,"(1998-06-07)June 7, 1998 (aged 28)",Heart of Midlothian
+12,15,2DF,Kai Trewin,"(2001-05-18)May 18, 2001 (aged 25)",New York City FC
+12,16,2DF,Aziz Behich,"(1990-12-16)December 16, 1990 (aged 35)",Melbourne City
+12,17,4FW,Nestory Irankunda,"(2006-02-09)February 9, 2006 (aged 20)",Watford
+12,18,1GK,Patrick Beach,"(2003-08-06)August 6, 2003 (aged 22)",Melbourne City
+12,19,2DF,Harry Souttar,"(1998-10-22)October 22, 1998 (aged 27)",Leicester City
+12,20,4FW,Cristian Volpato,"(2003-11-15)November 15, 2003 (aged 22)",Sassuolo
+12,21,2DF,Cameron Burgess,"(1995-10-21)October 21, 1995 (aged 30)",Swansea City
+12,22,3MF,Jackson Irvine,"(1993-03-07)March 7, 1993 (aged 33)",FC St. Pauli
+12,23,4FW,Nishan Velupillay,"(2001-05-07)May 7, 2001 (aged 25)",Melbourne Victory
+12,24,3MF,Paul Okon-Engstler,"(2005-01-24)January 24, 2005 (aged 21)",Sydney FC
+12,25,2DF,Lucas Herrington,"(2007-09-05)September 5, 2007 (aged 18)",Colorado Rapids
+12,26,4FW,Tete Yengi,"(2000-11-28)November 28, 2000 (aged 25)",Machida Zelvia
+13,1,1GK,Gatito Fernández,"(1988-03-29)March 29, 1988 (aged 38)",Cerro Porteño
+13,2,2DF,Gustavo Velázquez,"(1991-04-17)April 17, 1991 (aged 35)",Cerro Porteño
+13,3,2DF,Omar Alderete,"(1996-12-26)December 26, 1996 (aged 29)",Sunderland
+13,4,2DF,Juan José Cáceres,"(2000-06-01)June 1, 2000 (aged 26)",Dynamo Moscow
+13,5,2DF,Fabián Balbuena,"(1991-08-23)August 23, 1991 (aged 34)",Grêmio
+13,6,2DF,Júnior Alonso,"(1993-02-09)February 9, 1993 (aged 33)",Atlético Mineiro
+13,7,3MF,Ramón Sosa,"(1999-08-31)August 31, 1999 (aged 26)",Palmeiras
+13,8,3MF,Diego Gómez,"(2003-03-27)March 27, 2003 (aged 23)",Brighton & Hove Albion
+13,9,4FW,Antonio Sanabria,"(1996-03-04)March 4, 1996 (aged 30)",Cremonese
+13,10,3MF,Miguel Almirón,"(1994-02-10)February 10, 1994 (aged 32)",Atlanta United FC
+13,11,3MF,Maurício,"(2001-06-22)June 22, 2001 (aged 24)",Palmeiras
+13,12,1GK,Orlando Gill,"(2000-06-11)June 11, 2000 (aged 26)",San Lorenzo
+13,13,2DF,José Canale,"(1996-07-20)July 20, 1996 (aged 29)",Lanús
+13,14,3MF,Andrés Cubas,"(1996-05-11)May 11, 1996 (aged 30)",Vancouver Whitecaps FC
+13,15,2DF,Gustavo Gómez (captain),"(1993-05-06)May 6, 1993 (aged 33)",Palmeiras
+13,16,3MF,Damián Bobadilla,"(2001-07-11)July 11, 2001 (aged 24)",São Paulo
+13,17,4FW,Kaku,"(1995-01-11)January 11, 1995 (aged 31)",Al Ain
+13,18,4FW,Álex Arce,"(1995-06-16)June 16, 1995 (aged 30)",Independiente Rivadavia
+13,19,4FW,Julio Enciso,"(2004-01-23)January 23, 2004 (aged 22)",Strasbourg
+13,20,3MF,Braian Ojeda,"(2000-06-27)June 27, 2000 (aged 25)",Orlando City SC
+13,21,4FW,Gabriel Ávalos,"(1991-07-09)July 9, 1991 (aged 34)",Independiente
+13,22,1GK,Gastón Olveira,"(1993-04-21)April 21, 1993 (aged 33)",Olimpia
+13,23,3MF,Matías Galarza,"(2002-02-11)February 11, 2002 (aged 24)",Atlanta United FC
+13,24,3MF,Gustavo Caballero,"(2001-09-21)September 21, 2001 (aged 24)",Portsmouth
+13,25,4FW,Isidro Pitta,"(1999-08-14)August 14, 1999 (aged 26)",Red Bull Bragantino
+13,26,2DF,Alexandro Maidana,"(2005-07-26)July 26, 2005 (aged 20)",Talleres
+14,1,1GK,Mert Günok,"(1989-03-01)March 1, 1989 (aged 37)",Fenerbahçe
+14,2,2DF,Zeki Çelik,"(1997-02-17)February 17, 1997 (aged 29)",Roma
+14,3,2DF,Merih Demiral,"(1998-03-05)March 5, 1998 (aged 28)",Al-Ahli
+14,4,2DF,Çağlar Söyüncü,"(1996-05-23)May 23, 1996 (aged 30)",Fenerbahçe
+14,5,3MF,Salih Özcan,"(1998-01-11)January 11, 1998 (aged 28)",Borussia Dortmund
+14,6,3MF,Orkun Kökçü,"(2000-12-29)December 29, 2000 (aged 25)",Beşiktaş
+14,7,4FW,Kerem Aktürkoğlu,"(1998-10-21)October 21, 1998 (aged 27)",Fenerbahçe
+14,8,4FW,Arda Güler,"(2005-02-25)February 25, 2005 (aged 21)",Real Madrid
+14,9,4FW,Deniz Gül,"(2004-07-02)July 2, 2004 (aged 21)",Porto
+14,10,3MF,Hakan Çalhanoğlu (captain),"(1994-02-08)February 8, 1994 (aged 32)",Inter Milan
+14,11,4FW,Kenan Yıldız,"(2005-05-04)May 4, 2005 (aged 21)",Juventus
+14,12,1GK,Altay Bayındır,"(1998-04-14)April 14, 1998 (aged 28)",Manchester United
+14,13,2DF,Eren Elmalı,"(2000-07-07)July 7, 2000 (aged 25)",Galatasaray
+14,14,2DF,Abdülkerim Bardakcı,"(1994-09-07)September 7, 1994 (aged 31)",Galatasaray
+14,15,2DF,Ozan Kabak,"(2000-03-25)March 25, 2000 (aged 26)",TSG Hoffenheim
+14,16,3MF,İsmail Yüksek,"(1999-01-26)January 26, 1999 (aged 27)",Fenerbahçe
+14,17,4FW,İrfan Can Kahveci,"(1995-07-15)July 15, 1995 (aged 30)",Kasımpaşa
+14,18,2DF,Mert Müldür,"(1999-04-03)April 3, 1999 (aged 27)",Fenerbahçe
+14,19,4FW,Yunus Akgün,"(2000-07-07)July 7, 2000 (aged 25)",Galatasaray
+14,20,2DF,Ferdi Kadıoğlu,"(1999-10-07)October 7, 1999 (aged 26)",Brighton & Hove Albion
+14,21,4FW,Barış Alper Yılmaz,"(2000-05-23)May 23, 2000 (aged 26)",Galatasaray
+14,22,3MF,Kaan Ayhan,"(1994-11-10)November 10, 1994 (aged 31)",Galatasaray
+14,23,1GK,Uğurcan Çakır,"(1996-04-05)April 5, 1996 (aged 30)",Galatasaray
+14,24,4FW,Oğuz Aydın,"(2000-10-27)October 27, 2000 (aged 25)",Fenerbahçe
+14,25,2DF,Samet Akaydin,"(1994-03-13)March 13, 1994 (aged 32)",Çaykur Rizespor
+14,26,4FW,Can Uzun,"(2005-11-11)November 11, 2005 (aged 20)",Eintracht Frankfurt
+15,1,1GK,Matt Turner,"(1994-06-24)June 24, 1994 (aged 31)",New England Revolution
+15,2,2DF,Sergiño Dest,"(2000-11-03)November 3, 2000 (aged 25)",PSV Eindhoven
+15,3,2DF,Chris Richards,"(2000-03-28)March 28, 2000 (aged 26)",Crystal Palace
+15,4,3MF,Tyler Adams,"(1999-02-14)February 14, 1999 (aged 27)",Bournemouth
+15,5,2DF,Antonee Robinson,"(1997-08-08)August 8, 1997 (aged 28)",Fulham
+15,6,2DF,Auston Trusty,"(1998-08-12)August 12, 1998 (aged 27)",Celtic
+15,7,3MF,Giovanni Reyna,"(2002-11-13)November 13, 2002 (aged 23)",Borussia Mönchengladbach
+15,8,3MF,Weston McKennie,"(1998-08-28)August 28, 1998 (aged 27)",Juventus
+15,9,4FW,Ricardo Pepi,"(2003-01-09)January 9, 2003 (aged 23)",PSV Eindhoven
+15,10,4FW,Christian Pulisic,"(1998-09-18)September 18, 1998 (aged 27)",Milan
+15,11,4FW,Brenden Aaronson,"(2000-10-22)October 22, 2000 (aged 25)",Leeds United
+15,12,2DF,Miles Robinson,"(1997-03-14)March 14, 1997 (aged 29)",FC Cincinnati
+15,13,2DF,Tim Ream (captain),"(1987-10-05)October 5, 1987 (aged 38)",Charlotte FC
+15,14,3MF,Sebastian Berhalter,"(2001-05-10)May 10, 2001 (aged 25)",Vancouver Whitecaps FC
+15,15,3MF,Cristian Roldan,"(1995-06-03)June 3, 1995 (aged 31)",Seattle Sounders FC
+15,16,2DF,Alex Freeman,"(2004-08-09)August 9, 2004 (aged 21)",Villarreal
+15,17,3MF,Malik Tillman,"(2002-05-28)May 28, 2002 (aged 24)",Bayer Leverkusen
+15,18,2DF,Max Arfsten,"(2001-04-19)April 19, 2001 (aged 25)",Columbus Crew
+15,19,4FW,Haji Wright,"(1998-03-27)March 27, 1998 (aged 28)",Coventry City
+15,20,4FW,Folarin Balogun,"(2001-07-03)July 3, 2001 (aged 24)",Monaco
+15,21,4FW,Timothy Weah,"(2000-02-22)February 22, 2000 (aged 26)",Marseille
+15,22,2DF,Mark McKenzie,"(1999-02-25)February 25, 1999 (aged 27)",Toulouse
+15,23,2DF,Joe Scally,"(2002-12-31)December 31, 2002 (aged 23)",Borussia Mönchengladbach
+15,24,1GK,Matt Freese,"(1998-09-02)September 2, 1998 (aged 27)",New York City FC
+15,25,1GK,Chris Brady,"(2004-03-03)March 3, 2004 (aged 22)",Chicago Fire FC
+15,26,4FW,Alejandro Zendejas,"(1998-02-07)February 7, 1998 (aged 28)",América
+16,1,1GK,Eloy Room,"(1989-02-06)February 6, 1989 (aged 37)",Miami FC
+16,2,2DF,Shurandy Sambo,"(2001-08-19)August 19, 2001 (aged 24)",Sparta Rotterdam
+16,3,2DF,Juriën Gaari,"(1993-12-23)December 23, 1993 (aged 32)",Abha
+16,4,2DF,Roshon van Eijma,"(1998-06-09)June 9, 1998 (aged 28)",RKC Waalwijk
+16,5,2DF,Sherel Floranus,"(1998-08-23)August 23, 1998 (aged 27)",PEC Zwolle
+16,6,3MF,Godfried Roemeratoe,"(1999-08-19)August 19, 1999 (aged 26)",RKC Waalwijk
+16,7,3MF,Juninho Bacuna,"(1997-08-07)August 7, 1997 (aged 28)",Volendam
+16,8,3MF,Livano Comenencia,"(2004-02-03)February 3, 2004 (aged 22)",Zürich
+16,9,4FW,Jürgen Locadia,"(1993-11-07)November 7, 1993 (aged 32)",Miami FC
+16,10,3MF,Leandro Bacuna (captain),"(1991-08-21)August 21, 1991 (aged 34)",Iğdır
+16,11,4FW,Jeremy Antonisse,"(2002-03-29)March 29, 2002 (aged 24)",Kifisia
+16,12,4FW,Sontje Hansen,"(2002-05-18)May 18, 2002 (aged 24)",Middlesbrough
+16,13,4FW,Tyrese Noslin,"(2002-09-11)September 11, 2002 (aged 23)",Telstar
+16,14,4FW,Kenji Gorré,"(1994-09-29)September 29, 1994 (aged 31)",Maccabi Haifa
+16,15,3MF,Ar'jany Martha,"(2003-09-04)September 4, 2003 (aged 22)",Rotherham United
+16,16,4FW,Jearl Margaritha,"(2000-04-10)April 10, 2000 (aged 26)",Beveren
+16,17,4FW,Brandley Kuwas,"(1992-09-19)September 19, 1992 (aged 33)",Volendam
+16,18,2DF,Armando Obispo,"(1999-03-05)March 5, 1999 (aged 27)",PSV Eindhoven
+16,19,4FW,Gervane Kastaneer,"(1996-06-09)June 9, 1996 (aged 30)",Terengganu
+16,20,2DF,Joshua Brenet,"(1994-03-20)March 20, 1994 (aged 32)",Kayserispor
+16,21,3MF,Tahith Chong,"(1999-12-04)December 4, 1999 (aged 26)",Sheffield United
+16,22,3MF,Kevin Felida,"(1999-11-11)November 11, 1999 (aged 26)",Den Bosch
+16,23,2DF,Riechedly Bazoer,"(1996-10-12)October 12, 1996 (aged 29)",Konyaspor
+16,24,2DF,Deveron Fonville,"(2003-05-16)May 16, 2003 (aged 23)",NEC
+16,25,1GK,Tyrick Bodak,"(2002-05-15)May 15, 2002 (aged 24)",Telstar
+16,26,1GK,Trevor Doornbusch,"(1999-07-06)July 6, 1999 (aged 26)",VVV-Venlo
+17,1,1GK,Hernán Galíndez,"(1987-03-30)March 30, 1987 (aged 39)",Huracán
+17,2,2DF,Félix Torres,"(1997-01-11)January 11, 1997 (aged 29)",Internacional
+17,3,2DF,Piero Hincapié,"(2002-01-09)January 9, 2002 (aged 24)",Arsenal
+17,4,2DF,Joel Ordóñez,"(2004-04-21)April 21, 2004 (aged 22)",Club Brugge
+17,5,3MF,Jordy Alcívar,"(1999-08-05)August 5, 1999 (aged 26)",Independiente del Valle
+17,6,2DF,Willian Pacho,"(2001-10-16)October 16, 2001 (aged 24)",Paris Saint-Germain
+17,7,2DF,Pervis Estupiñán,"(1998-01-21)January 21, 1998 (aged 28)",Milan
+17,8,3MF,Anthony Valencia,"(2003-07-21)July 21, 2003 (aged 22)",Antwerp
+17,9,4FW,John Yeboah,"(2000-06-23)June 23, 2000 (aged 25)",Venezia
+17,10,3MF,Kendry Páez,"(2007-05-04)May 4, 2007 (aged 19)",River Plate
+17,11,4FW,Kevin Rodríguez,"(2000-03-04)March 4, 2000 (aged 26)",Union Saint-Gilloise
+17,12,1GK,Moisés Ramírez,"(2000-09-09)September 9, 2000 (aged 25)",Kifisia
+17,13,4FW,Enner Valencia (captain),"(1989-11-04)November 4, 1989 (aged 36)",Pachuca
+17,14,3MF,Alan Minda,"(2003-05-14)May 14, 2003 (aged 23)",Atlético Mineiro
+17,15,3MF,Pedro Vite,"(2002-03-09)March 9, 2002 (aged 24)",Pumas UNAM
+17,16,4FW,Jordy Caicedo,"(1997-11-18)November 18, 1997 (aged 28)",Huracán
+17,17,2DF,Ángelo Preciado,"(1998-02-18)February 18, 1998 (aged 28)",Atlético Mineiro
+17,18,3MF,Denil Castillo,"(2004-03-24)March 24, 2004 (aged 22)",Midtjylland
+17,19,4FW,Gonzalo Plata,"(2000-11-01)November 1, 2000 (aged 25)",Flamengo
+17,20,4FW,Nilson Angulo,"(2003-06-19)June 19, 2003 (aged 22)",Sunderland
+17,21,3MF,Alan Franco,"(1998-08-21)August 21, 1998 (aged 27)",Atlético Mineiro
+17,22,1GK,Gonzalo Valle,"(1996-02-28)February 28, 1996 (aged 30)",LDU Quito
+17,23,3MF,Moisés Caicedo,"(2001-11-02)November 2, 2001 (aged 24)",Chelsea
+17,24,4FW,Jeremy Arévalo,"(2005-03-19)March 19, 2005 (aged 21)",VfB Stuttgart
+17,25,2DF,Jackson Porozo,"(2000-08-04)August 4, 2000 (aged 25)",Tijuana
+17,26,2DF,Yaimar Medina,"(2004-11-05)November 5, 2004 (aged 21)",Genk
+18,1,1GK,Manuel Neuer,"(1986-03-27)March 27, 1986 (aged 40)",Bayern Munich
+18,2,2DF,Antonio Rüdiger,"(1993-03-03)March 3, 1993 (aged 33)",Real Madrid
+18,3,2DF,Waldemar Anton,"(1996-07-20)July 20, 1996 (aged 29)",Borussia Dortmund
+18,4,2DF,Jonathan Tah,"(1996-02-11)February 11, 1996 (aged 30)",Bayern Munich
+18,5,3MF,Aleksandar Pavlović,"(2004-05-03)May 3, 2004 (aged 22)",Bayern Munich
+18,6,2DF,Joshua Kimmich (captain),"(1995-02-08)February 8, 1995 (aged 31)",Bayern Munich
+18,7,4FW,Kai Havertz,"(1999-06-11)June 11, 1999 (aged 27)",Arsenal
+18,8,3MF,Leon Goretzka,"(1995-02-06)February 6, 1995 (aged 31)",Bayern Munich
+18,9,3MF,Jamie Leweling,"(2001-02-26)February 26, 2001 (aged 25)",VfB Stuttgart
+18,10,3MF,Jamal Musiala,"(2003-02-26)February 26, 2003 (aged 23)",Bayern Munich
+18,11,4FW,Nick Woltemade,"(2002-02-14)February 14, 2002 (aged 24)",Newcastle United
+18,12,1GK,Oliver Baumann,"(1990-06-02)June 2, 1990 (aged 36)",TSG Hoffenheim
+18,13,3MF,Pascal Groß,"(1991-06-15)June 15, 1991 (aged 34)",Brighton & Hove Albion
+18,14,4FW,Maximilian Beier,"(2002-10-17)October 17, 2002 (aged 23)",Borussia Dortmund
+18,15,2DF,Nico Schlotterbeck,"(1999-12-01)December 1, 1999 (aged 26)",Borussia Dortmund
+18,16,3MF,Angelo Stiller,"(2001-04-04)April 4, 2001 (aged 25)",VfB Stuttgart
+18,17,3MF,Florian Wirtz,"(2003-05-03)May 3, 2003 (aged 23)",Liverpool
+18,18,2DF,Nathaniel Brown,"(2003-06-16)June 16, 2003 (aged 22)",Eintracht Frankfurt
+18,19,3MF,Leroy Sané,"(1996-01-11)January 11, 1996 (aged 30)",Galatasaray
+18,20,3MF,Nadiem Amiri,"(1996-10-27)October 27, 1996 (aged 29)",Mainz 05
+18,21,1GK,Alexander Nübel,"(1996-09-30)September 30, 1996 (aged 29)",VfB Stuttgart
+18,22,2DF,David Raum,"(1998-04-22)April 22, 1998 (aged 28)",RB Leipzig
+18,23,3MF,Felix Nmecha,"(2000-10-10)October 10, 2000 (aged 25)",Borussia Dortmund
+18,24,2DF,Malick Thiaw,"(2001-08-08)August 8, 2001 (aged 24)",Newcastle United
+18,25,3MF,Assan Ouédraogo,"(2006-05-09)May 9, 2006 (aged 20)",RB Leipzig
+18,26,4FW,Deniz Undav,"(1996-07-19)July 19, 1996 (aged 29)",VfB Stuttgart
+19,1,1GK,Yahia Fofana,"(2000-08-21)August 21, 2000 (aged 25)",Çaykur Rizespor
+19,2,2DF,Ousmane Diomande,"(2003-12-04)December 4, 2003 (aged 22)",Sporting CP
+19,3,2DF,Ghislain Konan,"(1995-12-27)December 27, 1995 (aged 30)",Gil Vicente
+19,4,3MF,Jean Michaël Seri,"(1991-07-19)July 19, 1991 (aged 34)",Maribor
+19,5,2DF,Wilfried Singo,"(2000-12-25)December 25, 2000 (aged 25)",Galatasaray
+19,6,3MF,Seko Fofana,"(1995-05-07)May 7, 1995 (aged 31)",Porto
+19,7,2DF,Odilon Kossounou,"(2001-01-04)January 4, 2001 (aged 25)",Atalanta
+19,8,3MF,Franck Kessié (captain),"(1996-12-19)December 19, 1996 (aged 29)",Al-Ahli
+19,9,4FW,Ange-Yoan Bonny,"(2003-10-25)October 25, 2003 (aged 22)",Inter Milan
+19,10,4FW,Simon Adingra,"(2002-01-01)January 1, 2002 (aged 24)",Monaco
+19,11,4FW,Yan Diomande,"(2006-11-14)November 14, 2006 (aged 19)",RB Leipzig
+19,12,4FW,Elye Wahi,"(2003-01-02)January 2, 2003 (aged 23)",Nice
+19,13,2DF,Christopher Opéri,"(1997-04-29)April 29, 1997 (aged 29)",İstanbul Başakşehir
+19,14,4FW,Oumar Diakité,"(2003-12-20)December 20, 2003 (aged 22)",Cercle Brugge
+19,15,4FW,Amad Diallo,"(2002-07-11)July 11, 2002 (aged 23)",Manchester United
+19,16,1GK,Mohamed Koné,"(2002-03-07)March 7, 2002 (aged 24)",Charleroi
+19,17,2DF,Guéla Doué,"(2002-10-17)October 17, 2002 (aged 23)",Strasbourg
+19,18,3MF,Ibrahim Sangaré,"(1997-12-02)December 2, 1997 (aged 28)",Nottingham Forest
+19,19,4FW,Nicolas Pépé,"(1995-05-29)May 29, 1995 (aged 31)",Villarreal
+19,20,2DF,Emmanuel Agbadou,"(1997-06-17)June 17, 1997 (aged 28)",Beşiktaş
+19,21,2DF,Evan Ndicka,"(1999-08-20)August 20, 1999 (aged 26)",Roma
+19,22,4FW,Evann Guessand,"(2001-07-01)July 1, 2001 (aged 24)",Crystal Palace
+19,23,1GK,Alban Lafont,"(1999-01-23)January 23, 1999 (aged 27)",Panathinaikos
+19,24,4FW,Bazoumana Touré,"(2006-03-02)March 2, 2006 (aged 20)",TSG Hoffenheim
+19,25,3MF,Parfait Guiagon,"(2001-02-22)February 22, 2001 (aged 25)",Charleroi
+19,26,3MF,Christ Inao Oulaï,"(2006-04-06)April 6, 2006 (aged 20)",Trabzonspor
+20,1,1GK,Zion Suzuki,"(2002-08-21)August 21, 2002 (aged 23)",Parma
+20,2,2DF,Yukinari Sugawara,"(2000-06-28)June 28, 2000 (aged 25)",Werder Bremen
+20,3,2DF,Shōgo Taniguchi,"(1991-07-15)July 15, 1991 (aged 34)",Sint-Truiden
+20,4,2DF,Kō Itakura (captain),"(1997-01-27)January 27, 1997 (aged 29)",Ajax
+20,5,2DF,Yūto Nagatomo,"(1986-09-12)September 12, 1986 (aged 39)",FC Tokyo
+20,6,4FW,Shūto Machino,"(1999-09-30)September 30, 1999 (aged 26)",Borussia Mönchengladbach
+20,7,3MF,Ao Tanaka,"(1998-09-10)September 10, 1998 (aged 27)",Leeds United
+20,8,3MF,Takefusa Kubo,"(2001-06-04)June 4, 2001 (aged 25)",Real Sociedad
+20,9,4FW,Keisuke Gotō,"(2005-06-03)June 3, 2005 (aged 21)",Sint-Truiden
+20,10,3MF,Ritsu Dōan,"(1998-06-16)June 16, 1998 (aged 27)",Eintracht Frankfurt
+20,11,3MF,Daizen Maeda,"(1997-10-20)October 20, 1997 (aged 28)",Celtic
+20,12,1GK,Keisuke Ōsako,"(1999-07-28)July 28, 1999 (aged 26)",Sanfrecce Hiroshima
+20,13,3MF,Keito Nakamura,"(2000-07-28)July 28, 2000 (aged 25)",Reims
+20,14,3MF,Junya Itō,"(1993-03-09)March 9, 1993 (aged 33)",Genk
+20,15,3MF,Daichi Kamada,"(1996-08-05)August 5, 1996 (aged 29)",Crystal Palace
+20,16,2DF,Tsuyoshi Watanabe,"(1997-02-05)February 5, 1997 (aged 29)",Feyenoord
+20,17,3MF,Yuito Suzuki,"(2001-10-25)October 25, 2001 (aged 24)",SC Freiburg
+20,18,4FW,Ayase Ueda,"(1998-08-28)August 28, 1998 (aged 27)",Feyenoord
+20,19,4FW,Kōki Ogawa,"(1997-08-08)August 8, 1997 (aged 28)",NEC
+20,20,2DF,Ayumu Seko,"(2000-06-07)June 7, 2000 (aged 26)",Le Havre
+20,21,2DF,Hiroki Itō,"(1999-05-12)May 12, 1999 (aged 27)",Bayern Munich
+20,22,2DF,Takehiro Tomiyasu,"(1998-11-05)November 5, 1998 (aged 27)",Ajax
+20,23,1GK,Tomoki Hayakawa,"(1999-03-03)March 3, 1999 (aged 27)",Kashima Antlers
+20,24,3MF,Kaishū Sano,"(2000-12-30)December 30, 2000 (aged 25)",Mainz 05
+20,25,2DF,Junnosuke Suzuki,"(2003-07-12)July 12, 2003 (aged 22)",Copenhagen
+20,26,4FW,Kento Shiogai,"(2005-03-26)March 26, 2005 (aged 21)",VfL Wolfsburg
+21,1,1GK,Bart Verbruggen,"(2002-08-18)August 18, 2002 (aged 23)",Brighton & Hove Albion
+21,2,2DF,Lutsharel Geertruida,"(2000-07-18)July 18, 2000 (aged 25)",Sunderland
+21,3,3MF,Marten de Roon,"(1991-03-29)March 29, 1991 (aged 35)",Atalanta
+21,4,2DF,Virgil van Dijk (captain),"(1991-07-08)July 8, 1991 (aged 34)",Liverpool
+21,5,2DF,Nathan Aké,"(1995-02-18)February 18, 1995 (aged 31)",Manchester City
+21,6,2DF,Jan Paul van Hecke,"(2000-06-08)June 8, 2000 (aged 26)",Brighton & Hove Albion
+21,7,3MF,Justin Kluivert,"(1999-05-05)May 5, 1999 (aged 27)",Bournemouth
+21,8,3MF,Ryan Gravenberch,"(2002-05-16)May 16, 2002 (aged 24)",Liverpool
+21,9,4FW,Wout Weghorst,"(1992-08-07)August 7, 1992 (aged 33)",Ajax
+21,10,4FW,Memphis Depay,"(1994-02-13)February 13, 1994 (aged 32)",Corinthians
+21,11,4FW,Cody Gakpo,"(1999-05-07)May 7, 1999 (aged 27)",Liverpool
+21,12,2DF,Mats Wieffer,"(1999-11-16)November 16, 1999 (aged 26)",Brighton & Hove Albion
+21,13,1GK,Robin Roefs,"(2003-01-17)January 17, 2003 (aged 23)",Sunderland
+21,14,3MF,Tijjani Reijnders,"(1998-07-29)July 29, 1998 (aged 27)",Manchester City
+21,15,2DF,Micky van de Ven,"(2001-04-19)April 19, 2001 (aged 25)",Tottenham Hotspur
+21,16,3MF,Guus Til,"(1997-12-22)December 22, 1997 (aged 28)",PSV Eindhoven
+21,17,4FW,Noa Lang,"(1999-06-17)June 17, 1999 (aged 26)",Galatasaray
+21,18,4FW,Donyell Malen,"(1999-01-19)January 19, 1999 (aged 27)",Roma
+21,19,4FW,Brian Brobbey,"(2002-02-01)February 1, 2002 (aged 24)",Sunderland
+21,20,3MF,Teun Koopmeiners,"(1998-02-28)February 28, 1998 (aged 28)",Juventus
+21,21,3MF,Frenkie de Jong,"(1997-05-12)May 12, 1997 (aged 29)",Barcelona
+21,22,2DF,Denzel Dumfries,"(1996-04-18)April 18, 1996 (aged 30)",Inter Milan
+21,23,1GK,Mark Flekken,"(1993-06-13)June 13, 1993 (aged 32)",Bayer Leverkusen
+21,24,4FW,Crysencio Summerville,"(2001-10-30)October 30, 2001 (aged 24)",West Ham United
+21,25,2DF,Jorrel Hato,"(2006-03-07)March 7, 2006 (aged 20)",Chelsea
+21,26,3MF,Quinten Timber,"(2001-06-17)June 17, 2001 (aged 24)",Marseille
+22,1,1GK,Jacob Widell Zetterström,"(1998-07-11)July 11, 1998 (aged 27)",Derby County
+22,2,2DF,Gustaf Lagerbielke,"(2000-04-10)April 10, 2000 (aged 26)",Braga
+22,3,2DF,Victor Lindelöf (captain),"(1994-07-17)July 17, 1994 (aged 31)",Aston Villa
+22,4,2DF,Isak Hien,"(1999-01-13)January 13, 1999 (aged 27)",Atalanta
+22,5,2DF,Gabriel Gudmundsson,"(1999-04-29)April 29, 1999 (aged 27)",Leeds United
+22,6,2DF,Herman Johansson,"(1997-10-16)October 16, 1997 (aged 28)",FC Dallas
+22,7,3MF,Lucas Bergvall,"(2006-02-02)February 2, 2006 (aged 20)",Tottenham Hotspur
+22,8,2DF,Daniel Svensson,"(2002-02-12)February 12, 2002 (aged 24)",Borussia Dortmund
+22,9,4FW,Alexander Isak,"(1999-09-21)September 21, 1999 (aged 26)",Liverpool
+22,10,3MF,Benjamin Nygren,"(2001-07-08)July 8, 2001 (aged 24)",Celtic
+22,11,4FW,Anthony Elanga,"(2002-04-27)April 27, 2002 (aged 24)",Newcastle United
+22,12,1GK,Viktor Johansson,"(1998-09-14)September 14, 1998 (aged 27)",Stoke City
+22,13,3MF,Ken Sema,"(1993-09-30)September 30, 1993 (aged 32)",Pafos
+22,14,2DF,Hjalmar Ekdal,"(1998-10-21)October 21, 1998 (aged 27)",Burnley
+22,15,2DF,Carl Starfelt,"(1995-06-01)June 1, 1995 (aged 31)",Celta Vigo
+22,16,3MF,Jesper Karlström,"(1995-06-21)June 21, 1995 (aged 30)",Udinese
+22,17,4FW,Viktor Gyökeres,"(1998-06-04)June 4, 1998 (aged 28)",Arsenal
+22,18,3MF,Yasin Ayari,"(2003-10-06)October 6, 2003 (aged 22)",Brighton & Hove Albion
+22,19,3MF,Mattias Svanberg,"(1999-01-05)January 5, 1999 (aged 27)",VfL Wolfsburg
+22,20,2DF,Eric Smith,"(1997-01-08)January 8, 1997 (aged 29)",FC St. Pauli
+22,21,2DF,Alexander Bernhardsson,"(1998-09-08)September 8, 1998 (aged 27)",Holstein Kiel
+22,22,3MF,Besfort Zeneli,"(2002-11-21)November 21, 2002 (aged 23)",Union Saint-Gilloise
+22,23,1GK,Kristoffer Nordfeldt,"(1989-06-23)June 23, 1989 (aged 36)",AIK
+22,24,2DF,Elliot Stroud,"(2002-06-22)June 22, 2002 (aged 23)",Mjällby AIF
+22,25,4FW,Gustaf Nilsson,"(1997-05-23)May 23, 1997 (aged 29)",Club Brugge
+22,26,4FW,Taha Ali,"(1998-07-01)July 1, 1998 (aged 27)",Malmö FF
+23,1,1GK,Mouhib Chamakh,"(2001-08-25)August 25, 2001 (aged 24)",Club Africain
+23,2,2DF,Ali Abdi,"(1993-12-20)December 20, 1993 (aged 32)",Nice
+23,3,2DF,Montassar Talbi,"(1998-05-26)May 26, 1998 (aged 28)",Lorient
+23,4,2DF,Omar Rekik,"(2001-12-20)December 20, 2001 (aged 24)",Maribor
+23,5,2DF,Adem Arous,"(2004-07-17)July 17, 2004 (aged 21)",Kasımpaşa
+23,6,2DF,Dylan Bronn,"(1995-06-19)June 19, 1995 (aged 30)",Servette
+23,7,4FW,Elias Achouri,"(1999-02-10)February 10, 1999 (aged 27)",Copenhagen
+23,8,4FW,Elias Saad,"(1999-12-27)December 27, 1999 (aged 26)",Hannover 96
+23,9,4FW,Hazem Mastouri,"(1997-06-18)June 18, 1997 (aged 28)",Dynamo Makhachkala
+23,10,3MF,Hannibal Mejbri,"(2003-01-21)January 21, 2003 (aged 23)",Burnley
+23,11,3MF,Ismaël Gharbi,"(2004-04-10)April 10, 2004 (aged 22)",FC Augsburg
+23,12,2DF,Mortadha Ben Ouanes,"(1994-07-02)July 2, 1994 (aged 31)",Kasımpaşa
+23,13,3MF,Rani Khedira,"(1994-01-27)January 27, 1994 (aged 32)",Union Berlin
+23,14,3MF,Khalil Ayari,"(2005-02-02)February 2, 2005 (aged 21)",Paris Saint-Germain
+23,15,3MF,Hadj Mahmoud,"(2000-04-24)April 24, 2000 (aged 26)",Lugano
+23,16,1GK,Aymen Dahmen,"(1997-01-28)January 28, 1997 (aged 29)",CS Sfaxien
+23,17,3MF,Ellyes Skhiri (captain),"(1995-05-10)May 10, 1995 (aged 31)",Eintracht Frankfurt
+23,18,4FW,Rayan Elloumi,"(2007-09-17)September 17, 2007 (aged 18)",Vancouver Whitecaps FC
+23,19,4FW,Firas Chaouat,"(1996-05-08)May 8, 1996 (aged 30)",Club Africain
+23,20,2DF,Yan Valery,"(1999-02-22)February 22, 1999 (aged 27)",Young Boys
+23,21,2DF,Mohamed Amine Ben Hamida,"(1995-12-15)December 15, 1995 (aged 30)",Espérance de Tunis
+23,22,1GK,Sabri Ben Hessen,"(1996-06-13)June 13, 1996 (aged 29)",Étoile du Sahel
+23,23,2DF,Moutaz Neffati,"(2004-09-04)September 4, 2004 (aged 21)",IFK Norrköping
+23,24,2DF,Raed Chikhaoui,"(2004-06-09)June 9, 2004 (aged 22)",US Monastir
+23,25,3MF,Anis Ben Slimane,"(2001-03-16)March 16, 2001 (aged 25)",Norwich City
+23,26,3MF,Sebastian Tounekti,"(2002-07-13)July 13, 2002 (aged 23)",Celtic
+24,1,1GK,Thibaut Courtois,"(1992-05-11)May 11, 1992 (aged 34)",Real Madrid
+24,2,2DF,Zeno Debast,"(2003-10-24)October 24, 2003 (aged 22)",Sporting CP
+24,3,2DF,Arthur Theate,"(2000-05-25)May 25, 2000 (aged 26)",Eintracht Frankfurt
+24,4,2DF,Brandon Mechele,"(1993-01-28)January 28, 1993 (aged 33)",Club Brugge
+24,5,2DF,Maxim De Cuyper,"(2000-12-22)December 22, 2000 (aged 25)",Brighton & Hove Albion
+24,6,3MF,Axel Witsel,"(1989-01-12)January 12, 1989 (aged 37)",Girona
+24,7,3MF,Kevin De Bruyne,"(1991-06-28)June 28, 1991 (aged 34)",Napoli
+24,8,3MF,Youri Tielemans (captain),"(1997-05-07)May 7, 1997 (aged 29)",Aston Villa
+24,9,4FW,Romelu Lukaku,"(1993-05-13)May 13, 1993 (aged 33)",Napoli
+24,10,4FW,Leandro Trossard,"(1994-12-04)December 4, 1994 (aged 31)",Arsenal
+24,11,4FW,Jérémy Doku,"(2002-05-27)May 27, 2002 (aged 24)",Manchester City
+24,12,1GK,Senne Lammens,"(2002-07-07)July 7, 2002 (aged 23)",Manchester United
+24,13,1GK,Mike Penders,"(2005-07-31)July 31, 2005 (aged 20)",Strasbourg
+24,14,4FW,Dodi Lukébakio,"(1997-09-24)September 24, 1997 (aged 28)",Benfica
+24,15,2DF,Thomas Meunier,"(1991-09-12)September 12, 1991 (aged 34)",Lille
+24,16,2DF,Koni De Winter,"(2002-06-12)June 12, 2002 (aged 23)",Milan
+24,17,4FW,Charles De Ketelaere,"(2001-03-10)March 10, 2001 (aged 25)",Atalanta
+24,18,2DF,Joaquin Seys,"(2005-03-28)March 28, 2005 (aged 21)",Club Brugge
+24,19,3MF,Diego Moreira,"(2004-08-06)August 6, 2004 (aged 21)",Strasbourg
+24,20,3MF,Hans Vanaken,"(1992-08-24)August 24, 1992 (aged 33)",Club Brugge
+24,21,2DF,Timothy Castagne,"(1995-12-05)December 5, 1995 (aged 30)",Fulham
+24,22,3MF,Alexis Saelemaekers,"(1999-06-27)June 27, 1999 (aged 26)",Milan
+24,23,3MF,Nicolas Raskin,"(2001-02-23)February 23, 2001 (aged 25)",Rangers
+24,24,3MF,Amadou Onana,"(2001-08-16)August 16, 2001 (aged 24)",Aston Villa
+24,25,2DF,Nathan Ngoy,"(2003-06-10)June 10, 2003 (aged 23)",Lille
+24,26,4FW,Matias Fernandez-Pardo,"(2005-02-03)February 3, 2005 (aged 21)",Lille
+25,1,1GK,Mohamed El Shenawy,"(1988-12-18)December 18, 1988 (aged 37)",Al Ahly
+25,2,2DF,Yasser Ibrahim,"(1993-02-10)February 10, 1993 (aged 33)",Al Ahly
+25,3,2DF,Mohamed Hany,"(1996-02-02)February 2, 1996 (aged 30)",Al Ahly
+25,4,2DF,Hossam Abdelmaguid,"(2001-04-30)April 30, 2001 (aged 25)",Zamalek
+25,5,2DF,Ramy Rabia,"(1993-05-20)May 20, 1993 (aged 33)",Al Ain
+25,6,2DF,Mohamed Abdelmonem,"(1999-02-01)February 1, 1999 (aged 27)",Nice
+25,7,4FW,Trézéguet,"(1994-10-01)October 1, 1994 (aged 31)",Al Ahly
+25,8,3MF,Emam Ashour,"(1998-02-20)February 20, 1998 (aged 28)",Al Ahly
+25,9,4FW,Hamza Abdelkarim,"(2008-01-01)January 1, 2008 (aged 18)",Barcelona B
+25,10,4FW,Mohamed Salah (captain),"(1992-06-15)June 15, 1992 (aged 33)",Liverpool
+25,11,3MF,Mostafa Ziko,"(1997-04-27)April 27, 1997 (aged 29)",Pyramids
+25,12,4FW,Haissem Hassan,"(2002-02-08)February 8, 2002 (aged 24)",Oviedo
+25,13,2DF,Ahmed Fatouh,"(1998-03-22)March 22, 1998 (aged 28)",Zamalek
+25,14,3MF,Hamdy Fathy,"(1994-09-29)September 29, 1994 (aged 31)",Al-Wakrah
+25,15,2DF,Karim Hafez,"(1996-03-12)March 12, 1996 (aged 30)",Pyramids
+25,16,1GK,El Mahdy Soliman,"(1987-06-08)June 8, 1987 (aged 39)",Zamalek
+25,17,3MF,Mohanad Lasheen,"(1996-05-29)May 29, 1996 (aged 30)",Pyramids
+25,18,3MF,Nabil Emad,"(1996-04-06)April 6, 1996 (aged 30)",Al-Najma
+25,19,3MF,Marwan Attia,"(1998-08-01)August 1, 1998 (aged 27)",Al Ahly
+25,20,4FW,Ibrahim Adel,"(2001-04-23)April 23, 2001 (aged 25)",Nordsjælland
+25,21,3MF,Mahmoud Saber,"(2001-07-30)July 30, 2001 (aged 24)",ZED
+25,22,4FW,Omar Marmoush,"(1999-02-07)February 7, 1999 (aged 27)",Manchester City
+25,23,1GK,Mostafa Shobeir,"(2000-05-15)May 15, 2000 (aged 26)",Al Ahly
+25,24,2DF,Tarek Alaa,"(2002-01-05)January 5, 2002 (aged 24)",ZED
+25,25,4FW,Zizo,"(1996-01-10)January 10, 1996 (aged 30)",Al Ahly
+25,26,1GK,Mohamed Alaa,"(1999-01-01)January 1, 1999 (aged 27)",El Gouna
+26,1,1GK,Alireza Beiranvand,"(1992-09-21)September 21, 1992 (aged 33)",Tractor
+26,2,2DF,Saleh Hardani,"(1998-12-26)December 26, 1998 (aged 27)",Esteghlal
+26,3,2DF,Ehsan Hajsafi (captain),"(1990-02-25)February 25, 1990 (aged 36)",Sepahan
+26,4,2DF,Shojae Khalilzadeh,"(1989-05-14)May 14, 1989 (aged 37)",Tractor
+26,5,2DF,Milad Mohammadi,"(1993-09-29)September 29, 1993 (aged 32)",Persepolis
+26,6,3MF,Saeid Ezatolahi,"(1996-10-01)October 1, 1996 (aged 29)",Shabab Al Ahli
+26,7,3MF,Alireza Jahanbakhsh,"(1993-08-11)August 11, 1993 (aged 32)",Dender
+26,8,3MF,Mohammad Mohebi,"(1998-12-20)December 20, 1998 (aged 27)",Rostov
+26,9,4FW,Mehdi Taremi,"(1992-07-18)July 18, 1992 (aged 33)",Olympiacos
+26,10,4FW,Mehdi Ghayedi,"(1998-12-05)December 5, 1998 (aged 27)",Al Nasr
+26,11,4FW,Ali Alipour,"(1995-11-11)November 11, 1995 (aged 30)",Persepolis
+26,12,1GK,Payam Niazmand,"(1995-04-06)April 6, 1995 (aged 31)",Persepolis
+26,13,2DF,Hossein Kanaanizadegan,"(1994-03-23)March 23, 1994 (aged 32)",Persepolis
+26,14,3MF,Saman Ghoddos,"(1993-09-06)September 6, 1993 (aged 32)",Kalba
+26,15,3MF,Rouzbeh Cheshmi,"(1993-07-24)July 24, 1993 (aged 32)",Esteghlal
+26,16,3MF,Mehdi Torabi,"(1994-09-10)September 10, 1994 (aged 31)",Tractor
+26,17,2DF,Aria Yousefi,"(2002-04-22)April 22, 2002 (aged 24)",Sepahan
+26,18,4FW,Amirhossein Hosseinzadeh,"(2000-10-30)October 30, 2000 (aged 25)",Tractor
+26,19,2DF,Ali Nemati,"(1996-02-08)February 8, 1996 (aged 30)",Foolad
+26,20,4FW,Shahriyar Moghanlou,"(1994-12-21)December 21, 1994 (aged 31)",Kalba
+26,21,3MF,Mohammad Ghorbani,"(2001-10-07)October 7, 2001 (aged 24)",Al Wahda
+26,22,1GK,Hossein Hosseini,"(1992-06-30)June 30, 1992 (aged 33)",Sepahan
+26,23,2DF,Ramin Rezaeian,"(1990-03-21)March 21, 1990 (aged 36)",Foolad
+26,24,4FW,Dennis Eckert,"(1997-01-09)January 9, 1997 (aged 29)",Standard Liège
+26,25,2DF,Danial Eiri,"(2003-10-26)October 26, 2003 (aged 22)",Malavan
+26,26,3MF,Amirmohammad Razzaghinia,"(2006-04-11)April 11, 2006 (aged 20)",Esteghlal
+27,1,1GK,Max Crocombe,"(1993-08-12)August 12, 1993 (aged 32)",Millwall
+27,2,2DF,Tim Payne,"(1994-01-10)January 10, 1994 (aged 32)",Wellington Phoenix
+27,3,2DF,Francis de Vries,"(1994-11-28)November 28, 1994 (aged 31)",Auckland FC
+27,4,2DF,Tyler Bindon,"(2005-01-27)January 27, 2005 (aged 21)",Sheffield United
+27,5,2DF,Michael Boxall,"(1988-08-18)August 18, 1988 (aged 37)",Minnesota United FC
+27,6,3MF,Joe Bell,"(1999-04-27)April 27, 1999 (aged 27)",Viking
+27,7,4FW,Logan Rogerson,"(1998-05-28)May 28, 1998 (aged 28)",Auckland FC
+27,8,3MF,Marko Stamenić,"(2002-02-19)February 19, 2002 (aged 24)",Swansea City
+27,9,4FW,Chris Wood (captain),"(1991-12-07)December 7, 1991 (aged 34)",Nottingham Forest
+27,10,3MF,Sarpreet Singh,"(1999-02-20)February 20, 1999 (aged 27)",Wellington Phoenix
+27,11,3MF,Elijah Just,"(2000-05-01)May 1, 2000 (aged 26)",Motherwell
+27,12,1GK,Alex Paulsen,"(2002-07-04)July 4, 2002 (aged 23)",Lechia Gdańsk
+27,13,2DF,Liberato Cacace,"(2000-09-27)September 27, 2000 (aged 25)",Wrexham
+27,14,3MF,Alex Rufer,"(1996-06-12)June 12, 1996 (aged 29)",Wellington Phoenix
+27,15,2DF,Nando Pijnaker,"(1999-02-25)February 25, 1999 (aged 27)",Auckland FC
+27,16,2DF,Finn Surman,"(2003-09-23)September 23, 2003 (aged 22)",Portland Timbers
+27,17,4FW,Kosta Barbarouses,"(1990-02-19)February 19, 1990 (aged 36)",Western Sydney Wanderers
+27,18,4FW,Ben Waine,"(2001-06-11)June 11, 2001 (aged 25)",Port Vale
+27,19,3MF,Ben Old,"(2002-08-13)August 13, 2002 (aged 23)",Saint-Étienne
+27,20,3MF,Callum McCowatt,"(1999-04-30)April 30, 1999 (aged 27)",Silkeborg
+27,21,4FW,Jesse Randall,"(2002-08-19)August 19, 2002 (aged 23)",Auckland FC
+27,22,1GK,Michael Woud,"(1999-01-16)January 16, 1999 (aged 27)",Auckland FC
+27,23,3MF,Ryan Thomas,"(1994-12-20)December 20, 1994 (aged 31)",PEC Zwolle
+27,24,2DF,Callan Elliot,"(1999-07-07)July 7, 1999 (aged 26)",Auckland FC
+27,25,3MF,Lachlan Bayliss,"(2002-07-24)July 24, 2002 (aged 23)",Newcastle Jets
+27,26,2DF,Tommy Smith,"(1990-03-31)March 31, 1990 (aged 36)",Braintree Town
+28,1,1GK,Vozinha,"(1986-06-03)June 3, 1986 (aged 40)",Chaves
+28,2,2DF,Stopira,"(1988-05-20)May 20, 1988 (aged 38)",Torreense
+28,3,2DF,Diney,"(1995-01-17)January 17, 1995 (aged 31)",Al Bataeh
+28,4,2DF,Roberto Lopes,"(1992-06-17)June 17, 1992 (aged 33)",Shamrock Rovers
+28,5,2DF,Logan Costa,"(2001-04-01)April 1, 2001 (aged 25)",Villarreal
+28,6,3MF,Kevin Pina,"(1997-01-27)January 27, 1997 (aged 29)",Krasnodar
+28,7,3MF,Jovane Cabral,"(1998-06-14)June 14, 1998 (aged 27)",Estrela Amadora
+28,8,3MF,João Paulo,"(1998-05-26)May 26, 1998 (aged 28)",FCSB
+28,9,4FW,Gilson Benchimol,"(2001-12-29)December 29, 2001 (aged 24)",Akron Tolyatti
+28,10,3MF,Jamiro Monteiro,"(1993-11-23)November 23, 1993 (aged 32)",PEC Zwolle
+28,11,3MF,Garry Rodrigues,"(1990-11-27)November 27, 1990 (aged 35)",Apollon Limassol
+28,12,1GK,Márcio Rosa,"(1997-02-23)February 23, 1997 (aged 29)",Montana
+28,13,2DF,Sidny Lopes Cabral,"(2002-09-18)September 18, 2002 (aged 23)",Benfica
+28,14,3MF,Deroy Duarte,"(1999-07-04)July 4, 1999 (aged 26)",Ludogorets Razgrad
+28,15,3MF,Laros Duarte,"(1997-02-28)February 28, 1997 (aged 29)",Puskás Akadémia
+28,16,3MF,Yannick Semedo,"(1995-12-29)December 29, 1995 (aged 30)",Farense
+28,17,3MF,Willy Semedo,"(1994-04-27)April 27, 1994 (aged 32)",Omonia
+28,18,3MF,Telmo Arcanjo,"(2001-06-21)June 21, 2001 (aged 24)",Vitória de Guimarães
+28,19,4FW,Dailon Livramento,"(2001-05-04)May 4, 2001 (aged 25)",Casa Pia
+28,20,4FW,Ryan Mendes (captain),"(1990-01-08)January 8, 1990 (aged 36)",Iğdır
+28,21,3MF,Nuno da Costa,"(1991-02-10)February 10, 1991 (aged 35)",İstanbul Başakşehir
+28,22,2DF,Steven Moreira,"(1994-08-13)August 13, 1994 (aged 31)",Columbus Crew
+28,23,1GK,CJ dos Santos,"(2000-08-24)August 24, 2000 (aged 25)",San Diego FC
+28,24,2DF,Wagner Pina,"(2002-11-03)November 3, 2002 (aged 23)",Trabzonspor
+28,25,2DF,Kelvin Pires,"(2000-06-05)June 5, 2000 (aged 26)",SJK
+28,26,3MF,Hélio Varela,"(2002-05-03)May 3, 2002 (aged 24)",Maccabi Tel Aviv
+29,1,1GK,Nawaf Al-Aqidi,"(2000-05-10)May 10, 2000 (aged 26)",Al-Nassr
+29,2,2DF,Ali Majrashi,"(1999-10-02)October 2, 1999 (aged 26)",Al-Ahli
+29,3,2DF,Ali Lajami,"(1996-04-24)April 24, 1996 (aged 30)",Al-Hilal
+29,4,2DF,Abdulelah Al-Amri,"(1997-01-15)January 15, 1997 (aged 29)",Al-Nassr
+29,5,2DF,Hassan Al-Tambakti,"(1999-02-09)February 9, 1999 (aged 27)",Al-Hilal
+29,6,3MF,Nasser Al-Dawsari,"(1998-12-19)December 19, 1998 (aged 27)",Al-Hilal
+29,7,3MF,Musab Al-Juwayr,"(2003-06-20)June 20, 2003 (aged 22)",Al-Qadsiah
+29,8,4FW,Ayman Yahya,"(2001-05-14)May 14, 2001 (aged 25)",Al-Nassr
+29,9,4FW,Firas Al-Buraikan,"(2000-05-14)May 14, 2000 (aged 26)",Al-Ahli
+29,10,4FW,Salem Al-Dawsari (captain),"(1991-08-19)August 19, 1991 (aged 34)",Al-Hilal
+29,11,4FW,Saleh Al-Shehri,"(1993-11-01)November 1, 1993 (aged 32)",Al-Ittihad
+29,12,2DF,Saud Abdulhamid,"(1999-07-18)July 18, 1999 (aged 26)",Lens
+29,13,2DF,Nawaf Boushal,"(1999-09-16)September 16, 1999 (aged 26)",Al-Nassr
+29,14,2DF,Hassan Kadesh,"(1992-09-26)September 26, 1992 (aged 33)",Al-Ittihad
+29,15,3MF,Abdullah Al-Khaibari,"(1996-08-16)August 16, 1996 (aged 29)",Al-Nassr
+29,16,3MF,Ziyad Al-Johani,"(2001-11-11)November 11, 2001 (aged 24)",Al-Ahli
+29,17,4FW,Khalid Al-Ghannam,"(2000-11-08)November 8, 2000 (aged 25)",Al-Ettifaq
+29,18,3MF,Alaa Al-Hejji,"(1995-12-03)December 3, 1995 (aged 30)",Neom
+29,19,4FW,Abdullah Al-Hamdan,"(1999-09-13)September 13, 1999 (aged 26)",Al-Nassr
+29,20,4FW,Sultan Mandash,"(1994-10-17)October 17, 1994 (aged 31)",Al-Hilal
+29,21,1GK,Mohammed Al-Owais,"(1991-10-10)October 10, 1991 (aged 34)",Al-Ula
+29,22,1GK,Ahmed Al-Kassar,"(1991-05-08)May 8, 1991 (aged 35)",Al-Qadsiah
+29,23,3MF,Mohamed Kanno,"(1994-09-22)September 22, 1994 (aged 31)",Al-Hilal
+29,24,2DF,Moteb Al-Harbi,"(2000-02-20)February 20, 2000 (aged 26)",Al-Hilal
+29,25,2DF,Jehad Thakri,"(2001-07-21)July 21, 2001 (aged 24)",Al-Qadsiah
+29,26,2DF,Mohammed Abu Al-Shamat,"(2002-08-11)August 11, 2002 (aged 23)",Al-Qadsiah
+30,1,1GK,David Raya,"(1995-09-15)September 15, 1995 (aged 30)",Arsenal
+30,2,2DF,Marc Pubill,"(2003-06-20)June 20, 2003 (aged 22)",Atlético Madrid
+30,3,2DF,Álex Grimaldo,"(1995-09-20)September 20, 1995 (aged 30)",Bayer Leverkusen
+30,4,2DF,Eric García,"(2001-01-09)January 9, 2001 (aged 25)",Barcelona
+30,5,2DF,Marcos Llorente,"(1995-01-30)January 30, 1995 (aged 31)",Atlético Madrid
+30,6,3MF,Mikel Merino,"(1996-06-22)June 22, 1996 (aged 29)",Arsenal
+30,7,4FW,Ferran Torres,"(2000-02-29)February 29, 2000 (aged 26)",Barcelona
+30,8,3MF,Fabián Ruiz,"(1996-04-03)April 3, 1996 (aged 30)",Paris Saint-Germain
+30,9,3MF,Gavi,"(2004-08-05)August 5, 2004 (aged 21)",Barcelona
+30,10,4FW,Dani Olmo,"(1998-05-07)May 7, 1998 (aged 28)",Barcelona
+30,11,4FW,Yéremy Pino,"(2002-10-20)October 20, 2002 (aged 23)",Crystal Palace
+30,12,2DF,Pedro Porro,"(1999-09-13)September 13, 1999 (aged 26)",Tottenham Hotspur
+30,13,1GK,Joan Garcia,"(2001-05-04)May 4, 2001 (aged 25)",Barcelona
+30,14,2DF,Aymeric Laporte,"(1994-05-27)May 27, 1994 (aged 32)",Athletic Bilbao
+30,15,3MF,Álex Baena,"(2001-07-20)July 20, 2001 (aged 24)",Atlético Madrid
+30,16,3MF,Rodri (captain),"(1996-06-22)June 22, 1996 (aged 29)",Manchester City
+30,17,4FW,Nico Williams,"(2002-07-12)July 12, 2002 (aged 23)",Athletic Bilbao
+30,18,3MF,Martín Zubimendi,"(1999-02-02)February 2, 1999 (aged 27)",Arsenal
+30,19,4FW,Lamine Yamal,"(2007-07-13)July 13, 2007 (aged 18)",Barcelona
+30,20,3MF,Pedri,"(2002-11-25)November 25, 2002 (aged 23)",Barcelona
+30,21,4FW,Mikel Oyarzabal,"(1997-04-21)April 21, 1997 (aged 29)",Real Sociedad
+30,22,2DF,Pau Cubarsí,"(2007-01-22)January 22, 2007 (aged 19)",Barcelona
+30,23,1GK,Unai Simón,"(1997-06-11)June 11, 1997 (aged 29)",Athletic Bilbao
+30,24,2DF,Marc Cucurella,"(1998-07-22)July 22, 1998 (aged 27)",Chelsea
+30,25,4FW,Víctor Muñoz,"(2003-07-13)July 13, 2003 (aged 22)",Osasuna
+30,26,4FW,Borja Iglesias,"(1993-01-17)January 17, 1993 (aged 33)",Celta Vigo
+31,1,1GK,Sergio Rochet,"(1993-03-23)March 23, 1993 (aged 33)",Internacional
+31,2,2DF,José María Giménez (captain),"(1995-01-20)January 20, 1995 (aged 31)",Atlético Madrid
+31,3,2DF,Sebastián Cáceres,"(1999-08-18)August 18, 1999 (aged 26)",América
+31,4,2DF,Ronald Araújo,"(1999-03-07)March 7, 1999 (aged 27)",Barcelona
+31,5,3MF,Manuel Ugarte,"(2001-04-11)April 11, 2001 (aged 25)",Manchester United
+31,6,3MF,Rodrigo Bentancur,"(1997-06-25)June 25, 1997 (aged 28)",Tottenham Hotspur
+31,7,3MF,Nicolás de la Cruz,"(1997-06-01)June 1, 1997 (aged 29)",Flamengo
+31,8,3MF,Federico Valverde,"(1998-07-22)July 22, 1998 (aged 27)",Real Madrid
+31,9,4FW,Darwin Núñez,"(1999-06-24)June 24, 1999 (aged 26)",Al-Hilal
+31,10,3MF,Giorgian de Arrascaeta,"(1994-06-01)June 1, 1994 (aged 32)",Flamengo
+31,11,4FW,Facundo Pellistri,"(2001-12-20)December 20, 2001 (aged 24)",Panathinaikos
+31,12,1GK,Santiago Mele,"(1997-09-06)September 6, 1997 (aged 28)",Monterrey
+31,13,2DF,Guillermo Varela,"(1993-03-24)March 24, 1993 (aged 33)",Flamengo
+31,14,3MF,Agustín Canobbio,"(1998-10-01)October 1, 1998 (aged 27)",Fluminense
+31,15,3MF,Emiliano Martínez,"(1999-08-17)August 17, 1999 (aged 26)",Palmeiras
+31,16,2DF,Mathías Olivera,"(1997-10-31)October 31, 1997 (aged 28)",Napoli
+31,17,2DF,Matías Viña,"(1997-11-09)November 9, 1997 (aged 28)",River Plate
+31,18,4FW,Brian Rodríguez,"(2000-05-20)May 20, 2000 (aged 26)",América
+31,19,4FW,Rodrigo Aguirre,"(1994-10-01)October 1, 1994 (aged 31)",Tigres UANL
+31,20,3MF,Maximiliano Araújo,"(2000-02-15)February 15, 2000 (aged 26)",Sporting CP
+31,21,4FW,Federico Viñas,"(1998-06-30)June 30, 1998 (aged 27)",Oviedo
+31,22,3MF,Joaquín Piquerez,"(1998-08-24)August 24, 1998 (aged 27)",Palmeiras
+31,23,1GK,Fernando Muslera,"(1986-06-16)June 16, 1986 (aged 39)",Estudiantes
+31,24,2DF,Santiago Bueno,"(1998-11-09)November 9, 1998 (aged 27)",Wolverhampton Wanderers
+31,25,3MF,Juan Manuel Sanabria,"(2000-03-29)March 29, 2000 (aged 26)",Real Salt Lake
+31,26,3MF,Rodrigo Zalazar,"(1999-08-12)August 12, 1999 (aged 26)",Braga
+32,1,1GK,Brice Samba,"(1994-04-25)April 25, 1994 (aged 32)",Rennes
+32,2,2DF,Malo Gusto,"(2003-05-19)May 19, 2003 (aged 23)",Chelsea
+32,3,2DF,Lucas Digne,"(1993-07-20)July 20, 1993 (aged 32)",Aston Villa
+32,4,2DF,Dayot Upamecano,"(1998-10-27)October 27, 1998 (aged 27)",Bayern Munich
+32,5,2DF,Jules Koundé,"(1998-11-12)November 12, 1998 (aged 27)",Barcelona
+32,6,3MF,Manu Koné,"(2001-05-17)May 17, 2001 (aged 25)",Roma
+32,7,4FW,Ousmane Dembélé,"(1997-05-15)May 15, 1997 (aged 29)",Paris Saint-Germain
+32,8,3MF,Aurélien Tchouaméni,"(2000-01-27)January 27, 2000 (aged 26)",Real Madrid
+32,9,4FW,Marcus Thuram,"(1997-08-06)August 6, 1997 (aged 28)",Inter Milan
+32,10,4FW,Kylian Mbappé (captain),"(1998-12-20)December 20, 1998 (aged 27)",Real Madrid
+32,11,4FW,Michael Olise,"(2001-12-12)December 12, 2001 (aged 24)",Bayern Munich
+32,12,4FW,Bradley Barcola,"(2002-09-02)September 2, 2002 (aged 23)",Paris Saint-Germain
+32,13,3MF,N'Golo Kanté,"(1991-03-29)March 29, 1991 (aged 35)",Fenerbahçe
+32,14,3MF,Adrien Rabiot,"(1995-04-03)April 3, 1995 (aged 31)",Milan
+32,15,2DF,Ibrahima Konaté,"(1999-05-25)May 25, 1999 (aged 27)",Liverpool
+32,16,1GK,Mike Maignan,"(1995-07-03)July 3, 1995 (aged 30)",Milan
+32,17,2DF,William Saliba,"(2001-03-24)March 24, 2001 (aged 25)",Arsenal
+32,18,3MF,Warren Zaïre-Emery,"(2006-03-08)March 8, 2006 (aged 20)",Paris Saint-Germain
+32,19,2DF,Théo Hernandez,"(1997-10-06)October 6, 1997 (aged 28)",Al-Hilal
+32,20,4FW,Désiré Doué,"(2005-06-03)June 3, 2005 (aged 21)",Paris Saint-Germain
+32,21,2DF,Lucas Hernandez,"(1996-02-14)February 14, 1996 (aged 30)",Paris Saint-Germain
+32,22,4FW,Jean-Philippe Mateta,"(1997-06-28)June 28, 1997 (aged 28)",Crystal Palace
+32,23,1GK,Robin Risser,"(2004-12-02)December 2, 2004 (aged 21)",Lens
+32,24,3MF,Rayan Cherki,"(2003-08-17)August 17, 2003 (aged 22)",Manchester City
+32,25,3MF,Maghnes Akliouche,"(2002-02-25)February 25, 2002 (aged 24)",Monaco
+32,26,2DF,Maxence Lacroix,"(2000-04-06)April 6, 2000 (aged 26)",Crystal Palace
+33,1,1GK,Fahad Talib,"(1994-10-21)October 21, 1994 (aged 31)",Al-Talaba
+33,2,2DF,Rebin Sulaka,"(1992-04-12)April 12, 1992 (aged 34)",Port
+33,3,2DF,Hussein Ali,"(2002-03-01)March 1, 2002 (aged 24)",Pogoń Szczecin
+33,4,2DF,Zaid Tahseen,"(2001-01-29)January 29, 2001 (aged 25)",Pakhtakor
+33,5,2DF,Akam Hashim,"(1998-08-16)August 16, 1998 (aged 27)",Al-Zawraa
+33,6,2DF,Manaf Younis,"(1996-11-16)November 16, 1996 (aged 29)",Al-Shorta
+33,7,3MF,Youssef Amyn,"(2003-08-21)August 21, 2003 (aged 22)",AEK Larnaca
+33,8,3MF,Ibrahim Bayesh,"(2000-05-01)May 1, 2000 (aged 26)",Al Dhafra
+33,9,4FW,Ali Al-Hamadi,"(2002-03-01)March 1, 2002 (aged 24)",Luton Town
+33,10,4FW,Mohanad Ali,"(2000-06-20)June 20, 2000 (aged 25)",Dibba
+33,11,4FW,Ahmed Qasem,"(2003-07-12)July 12, 2003 (aged 22)",Nashville SC
+33,12,1GK,Jalal Hassan (captain),"(1991-05-18)May 18, 1991 (aged 35)",Al-Zawraa
+33,13,4FW,Ali Yousif,"(1996-01-19)January 19, 1996 (aged 30)",Al-Talaba
+33,14,3MF,Zidane Iqbal,"(2003-04-27)April 27, 2003 (aged 23)",Utrecht
+33,15,2DF,Ahmed Maknzi,"(2001-09-24)September 24, 2001 (aged 24)",Al-Karma
+33,16,3MF,Amir Al-Ammari,"(1997-07-27)July 27, 1997 (aged 28)",Cracovia
+33,17,4FW,Ali Jasim,"(2004-01-20)January 20, 2004 (aged 22)",Al-Najma
+33,18,4FW,Aymen Hussein,"(1996-03-22)March 22, 1996 (aged 30)",Al-Karma
+33,19,3MF,Kevin Yakob,"(2000-10-10)October 10, 2000 (aged 25)",AGF
+33,20,3MF,Aimar Sher,"(2002-12-20)December 20, 2002 (aged 23)",Sarpsborg 08
+33,21,4FW,Marko Farji,"(2004-03-16)March 16, 2004 (aged 22)",Venezia
+33,22,1GK,Ahmed Basil,"(1996-08-19)August 19, 1996 (aged 29)",Al-Shorta
+33,23,2DF,Merchas Doski,"(1999-12-07)December 7, 1999 (aged 26)",Viktoria Plzeň
+33,24,3MF,Zaid Ismail,"(2002-01-03)January 3, 2002 (aged 24)",Al-Talaba
+33,25,2DF,Mustafa Saadoon,"(2001-05-25)May 25, 2001 (aged 25)",Al-Shorta
+33,26,2DF,Frans Putros,"(1993-07-14)July 14, 1993 (aged 32)",Persib
+34,1,1GK,Ørjan Nyland,"(1990-09-10)September 10, 1990 (aged 35)",Sevilla
+34,2,3MF,Morten Thorsby,"(1996-05-05)May 5, 1996 (aged 30)",Cremonese
+34,3,2DF,Kristoffer Ajer,"(1998-04-17)April 17, 1998 (aged 28)",Brentford
+34,4,2DF,Leo Østigård,"(1999-11-28)November 28, 1999 (aged 26)",Genoa
+34,5,2DF,David Møller Wolfe,"(2002-04-23)April 23, 2002 (aged 24)",Wolverhampton Wanderers
+34,6,3MF,Patrick Berg,"(1997-11-24)November 24, 1997 (aged 28)",Bodø/Glimt
+34,7,4FW,Alexander Sørloth,"(1995-12-05)December 5, 1995 (aged 30)",Atlético Madrid
+34,8,3MF,Sander Berge,"(1998-02-14)February 14, 1998 (aged 28)",Fulham
+34,9,4FW,Erling Haaland,"(2000-07-21)July 21, 2000 (aged 25)",Manchester City
+34,10,3MF,Martin Ødegaard (captain),"(1998-12-17)December 17, 1998 (aged 27)",Arsenal
+34,11,4FW,Jørgen Strand Larsen,"(2000-02-06)February 6, 2000 (aged 26)",Crystal Palace
+34,12,1GK,Sander Tangvik,"(2002-11-29)November 29, 2002 (aged 23)",Hamburger SV
+34,13,1GK,Egil Selvik,"(1997-07-30)July 30, 1997 (aged 28)",Watford
+34,14,3MF,Fredrik Aursnes,"(1995-12-10)December 10, 1995 (aged 30)",Benfica
+34,15,2DF,Fredrik André Bjørkan,"(1998-08-21)August 21, 1998 (aged 27)",Bodø/Glimt
+34,16,2DF,Marcus Holmgren Pedersen,"(2000-07-16)July 16, 2000 (aged 25)",Torino
+34,17,2DF,Torbjørn Heggem,"(1999-01-12)January 12, 1999 (aged 27)",Bologna
+34,18,3MF,Kristian Thorstvedt,"(1999-03-13)March 13, 1999 (aged 27)",Sassuolo
+34,19,3MF,Thelo Aasgaard,"(2002-05-02)May 2, 2002 (aged 24)",Rangers
+34,20,3MF,Antonio Nusa,"(2005-04-17)April 17, 2005 (aged 21)",RB Leipzig
+34,21,3MF,Andreas Schjelderup,"(2004-06-01)June 1, 2004 (aged 22)",Benfica
+34,22,3MF,Oscar Bobb,"(2003-07-12)July 12, 2003 (aged 22)",Fulham
+34,23,3MF,Jens Petter Hauge,"(1999-10-12)October 12, 1999 (aged 26)",Bodø/Glimt
+34,24,2DF,Sondre Langås,"(2001-02-02)February 2, 2001 (aged 25)",Derby County
+34,25,2DF,Henrik Falchener,"(2003-05-08)May 8, 2003 (aged 23)",Viking
+34,26,2DF,Julian Ryerson,"(1997-11-17)November 17, 1997 (aged 28)",Borussia Dortmund
+35,1,1GK,Yehvann Diouf,"(1999-11-16)November 16, 1999 (aged 26)",Nice
+35,2,2DF,Mamadou Sarr,"(2005-08-29)August 29, 2005 (aged 20)",Chelsea
+35,3,2DF,Kalidou Koulibaly (captain),"(1991-06-20)June 20, 1991 (aged 34)",Al-Hilal
+35,4,2DF,Abdoulaye Seck,"(1992-06-04)June 4, 1992 (aged 34)",Maccabi Haifa
+35,5,3MF,Idrissa Gueye,"(1989-09-26)September 26, 1989 (aged 36)",Everton
+35,6,3MF,Pathé Ciss,"(1994-03-16)March 16, 1994 (aged 32)",Rayo Vallecano
+35,7,4FW,Assane Diao,"(2005-09-07)September 7, 2005 (aged 20)",Como
+35,8,3MF,Lamine Camara,"(2004-01-01)January 1, 2004 (aged 22)",Monaco
+35,9,4FW,Bamba Dieng,"(2000-03-23)March 23, 2000 (aged 26)",Lorient
+35,10,4FW,Sadio Mané,"(1992-04-10)April 10, 1992 (aged 34)",Al-Nassr
+35,11,4FW,Nicolas Jackson,"(2001-06-20)June 20, 2001 (aged 24)",Bayern Munich
+35,12,4FW,Cherif Ndiaye,"(1996-01-23)January 23, 1996 (aged 30)",Samsunspor
+35,13,4FW,Iliman Ndiaye,"(2000-03-06)March 6, 2000 (aged 26)",Everton
+35,14,2DF,Ismail Jakobs,"(1999-08-17)August 17, 1999 (aged 26)",Galatasaray
+35,15,2DF,Krépin Diatta,"(1999-02-25)February 25, 1999 (aged 27)",Monaco
+35,16,1GK,Édouard Mendy,"(1992-03-01)March 1, 1992 (aged 34)",Al-Ahli
+35,17,3MF,Pape Matar Sarr,"(2002-09-14)September 14, 2002 (aged 23)",Tottenham Hotspur
+35,18,4FW,Ismaïla Sarr,"(1998-02-25)February 25, 1998 (aged 28)",Crystal Palace
+35,19,2DF,Moussa Niakhaté,"(1996-03-08)March 8, 1996 (aged 30)",Lyon
+35,20,4FW,Ibrahim Mbaye,"(2008-01-24)January 24, 2008 (aged 18)",Paris Saint-Germain
+35,21,3MF,Habib Diarra,"(2004-01-03)January 3, 2004 (aged 22)",Sunderland
+35,22,3MF,Bara Sapoko Ndiaye,"(2007-12-31)December 31, 2007 (aged 18)",Bayern Munich
+35,23,1GK,Mory Diaw,"(1993-06-22)June 22, 1993 (aged 32)",Le Havre
+35,24,2DF,Antoine Mendy,"(2004-05-27)May 27, 2004 (aged 22)",Nice
+35,25,2DF,El Hadji Malick Diouf,"(2004-12-29)December 29, 2004 (aged 21)",West Ham United
+35,26,3MF,Pape Gueye,"(1999-01-24)January 24, 1999 (aged 27)",Villarreal
+36,1,1GK,Melvin Mastil,"(2000-02-19)February 19, 2000 (aged 26)",Stade Nyonnais
+36,2,2DF,Aïssa Mandi,"(1991-10-22)October 22, 1991 (aged 34)",Lille
+36,3,2DF,Achref Abada,"(1999-06-15)June 15, 1999 (aged 26)",USM Alger
+36,4,2DF,Mohamed Amine Tougai,"(2000-01-22)January 22, 2000 (aged 26)",Espérance de Tunis
+36,5,2DF,Zineddine Belaïd,"(1999-03-20)March 20, 1999 (aged 27)",JS Kabylie
+36,6,3MF,Ramiz Zerrouki,"(1998-05-26)May 26, 1998 (aged 28)",Twente
+36,7,4FW,Riyad Mahrez (captain),"(1991-02-21)February 21, 1991 (aged 35)",Al-Ahli
+36,8,3MF,Houssem Aouar,"(1998-06-30)June 30, 1998 (aged 27)",Al-Ittihad
+36,9,4FW,Amine Gouiri,"(2000-02-16)February 16, 2000 (aged 26)",Marseille
+36,10,3MF,Farès Chaïbi,"(2002-11-28)November 28, 2002 (aged 23)",Eintracht Frankfurt
+36,11,4FW,Anis Hadj Moussa,"(2002-02-11)February 11, 2002 (aged 24)",Feyenoord
+36,12,4FW,Nadhir Benbouali,"(2000-04-17)April 17, 2000 (aged 26)",Győri ETO
+36,13,2DF,Jaouen Hadjam,"(2003-03-26)March 26, 2003 (aged 23)",Young Boys
+36,14,3MF,Hicham Boudaoui,"(1999-09-23)September 23, 1999 (aged 26)",Nice
+36,15,2DF,Rayan Aït-Nouri,"(2001-06-06)June 6, 2001 (aged 25)",Manchester City
+36,16,1GK,Oussama Benbot,"(1994-10-11)October 11, 1994 (aged 31)",USM Alger
+36,17,2DF,Rafik Belghali,"(2002-06-07)June 7, 2002 (aged 24)",Hellas Verona
+36,18,4FW,Mohamed Amoura,"(2000-05-09)May 9, 2000 (aged 26)",VfL Wolfsburg
+36,19,3MF,Nabil Bentaleb,"(1994-11-24)November 24, 1994 (aged 31)",Lille
+36,20,4FW,Adil Boulbina,"(2003-05-02)May 2, 2003 (aged 23)",Al-Duhail
+36,21,2DF,Ramy Bensebaini,"(1995-04-16)April 16, 1995 (aged 31)",Borussia Dortmund
+36,22,3MF,Ibrahim Maza,"(2005-11-24)November 24, 2005 (aged 20)",Bayer Leverkusen
+36,23,1GK,Luca Zidane,"(1998-05-13)May 13, 1998 (aged 28)",Granada
+36,24,3MF,Yacine Titraoui,"(2003-07-26)July 26, 2003 (aged 22)",Charleroi
+36,25,4FW,Farès Ghedjemis,"(2002-09-06)September 6, 2002 (aged 23)",Frosinone
+36,26,2DF,Samir Chergui,"(1999-02-06)February 6, 1999 (aged 27)",Paris FC
+37,1,1GK,Juan Musso,"(1994-05-06)May 6, 1994 (aged 32)",Atlético Madrid
+37,2,2DF,Marcos Senesi,"(1997-05-10)May 10, 1997 (aged 29)",Bournemouth
+37,3,2DF,Nicolás Tagliafico,"(1992-08-31)August 31, 1992 (aged 33)",Lyon
+37,4,2DF,Gonzalo Montiel,"(1997-01-01)January 1, 1997 (aged 29)",River Plate
+37,5,3MF,Leandro Paredes,"(1994-06-29)June 29, 1994 (aged 31)",Boca Juniors
+37,6,2DF,Lisandro Martínez,"(1998-01-18)January 18, 1998 (aged 28)",Manchester United
+37,7,3MF,Rodrigo De Paul,"(1994-05-24)May 24, 1994 (aged 32)",Inter Miami CF
+37,8,3MF,Valentín Barco,"(2004-07-23)July 23, 2004 (aged 21)",Strasbourg
+37,9,4FW,Julián Alvarez,"(2000-01-31)January 31, 2000 (aged 26)",Atlético Madrid
+37,10,4FW,Lionel Messi (captain),"(1987-06-24)June 24, 1987 (aged 38)",Inter Miami CF
+37,11,3MF,Giovani Lo Celso,"(1996-04-09)April 9, 1996 (aged 30)",Real Betis
+37,12,1GK,Gerónimo Rulli,"(1992-05-20)May 20, 1992 (aged 34)",Marseille
+37,13,2DF,Cristian Romero,"(1998-04-27)April 27, 1998 (aged 28)",Tottenham Hotspur
+37,14,3MF,Exequiel Palacios,"(1998-10-05)October 5, 1998 (aged 27)",Bayer Leverkusen
+37,15,3MF,Nicolás González,"(1998-04-06)April 6, 1998 (aged 28)",Atlético Madrid
+37,16,4FW,Thiago Almada,"(2001-04-26)April 26, 2001 (aged 25)",Atlético Madrid
+37,17,4FW,Giuliano Simeone,"(2002-12-18)December 18, 2002 (aged 23)",Atlético Madrid
+37,18,4FW,Nico Paz,"(2004-09-08)September 8, 2004 (aged 21)",Como
+37,19,2DF,Nicolás Otamendi,"(1988-02-12)February 12, 1988 (aged 38)",Benfica
+37,20,3MF,Alexis Mac Allister,"(1998-12-24)December 24, 1998 (aged 27)",Liverpool
+37,21,4FW,José Manuel López,"(2000-12-06)December 6, 2000 (aged 25)",Palmeiras
+37,22,4FW,Lautaro Martínez,"(1997-08-22)August 22, 1997 (aged 28)",Inter Milan
+37,23,1GK,Emiliano Martínez,"(1992-09-02)September 2, 1992 (aged 33)",Aston Villa
+37,24,3MF,Enzo Fernández,"(2001-01-17)January 17, 2001 (aged 25)",Chelsea
+37,25,2DF,Facundo Medina,"(1999-05-28)May 28, 1999 (aged 27)",Marseille
+37,26,2DF,Nahuel Molina,"(1998-04-06)April 6, 1998 (aged 28)",Atlético Madrid
+38,1,1GK,Alexander Schlager,"(1996-02-01)February 1, 1996 (aged 30)",Red Bull Salzburg
+38,2,2DF,David Affengruber,"(2001-03-19)March 19, 2001 (aged 25)",Elche
+38,3,2DF,Kevin Danso,"(1998-09-19)September 19, 1998 (aged 27)",Tottenham Hotspur
+38,4,3MF,Xaver Schlager,"(1997-09-28)September 28, 1997 (aged 28)",RB Leipzig
+38,5,2DF,Stefan Posch,"(1997-05-14)May 14, 1997 (aged 29)",Mainz 05
+38,6,3MF,Nicolas Seiwald,"(2001-05-04)May 4, 2001 (aged 25)",RB Leipzig
+38,7,4FW,Marko Arnautović,"(1989-04-19)April 19, 1989 (aged 37)",Red Star Belgrade
+38,8,2DF,David Alaba (captain),"(1992-06-24)June 24, 1992 (aged 33)",Real Madrid
+38,9,3MF,Marcel Sabitzer,"(1994-03-17)March 17, 1994 (aged 32)",Borussia Dortmund
+38,10,3MF,Florian Grillitsch,"(1995-08-07)August 7, 1995 (aged 30)",Braga
+38,11,4FW,Michael Gregoritsch,"(1994-04-18)April 18, 1994 (aged 32)",FC Augsburg
+38,12,1GK,Florian Wiegele,"(2001-03-21)March 21, 2001 (aged 25)",Viktoria Plzeň
+38,13,1GK,Patrick Pentz,"(1997-01-02)January 2, 1997 (aged 29)",Brøndby
+38,14,4FW,Saša Kalajdžić,"(1997-07-07)July 7, 1997 (aged 28)",LASK
+38,15,2DF,Philipp Lienhart,"(1996-07-11)July 11, 1996 (aged 29)",SC Freiburg
+38,16,2DF,Phillipp Mwene,"(1994-01-29)January 29, 1994 (aged 32)",Mainz 05
+38,17,3MF,Carney Chukwuemeka,"(2003-10-20)October 20, 2003 (aged 22)",Borussia Dortmund
+38,18,3MF,Romano Schmid,"(2000-01-27)January 27, 2000 (aged 26)",Werder Bremen
+38,19,3MF,Dejan Ljubičić,"(1997-10-08)October 8, 1997 (aged 28)",Schalke 04
+38,20,3MF,Konrad Laimer,"(1997-05-27)May 27, 1997 (aged 29)",Bayern Munich
+38,21,4FW,Patrick Wimmer,"(2001-05-30)May 30, 2001 (aged 25)",VfL Wolfsburg
+38,22,3MF,Alexander Prass,"(2001-05-26)May 26, 2001 (aged 25)",TSG Hoffenheim
+38,23,2DF,Marco Friedl,"(1998-03-16)March 16, 1998 (aged 28)",Werder Bremen
+38,24,3MF,Paul Wanner,"(2005-12-23)December 23, 2005 (aged 20)",PSV Eindhoven
+38,25,2DF,Michael Svoboda,"(1998-10-15)October 15, 1998 (aged 27)",Venezia
+38,26,3MF,Alessandro Schöpf,"(1994-02-07)February 7, 1994 (aged 32)",Wolfsberger AC
+39,1,1GK,Yazeed Abulaila,"(1993-01-08)January 8, 1993 (aged 33)",Al-Hussein
+39,2,2DF,Mohammad Abu Hashish,"(1995-05-09)May 9, 1995 (aged 31)",Al-Karma
+39,3,2DF,Abdallah Nasib,"(1994-02-25)February 25, 1994 (aged 32)",Al-Zawraa
+39,4,2DF,Husam Abu Dahab,"(2000-05-13)May 13, 2000 (aged 26)",Al-Faisaly
+39,5,2DF,Yazan Al-Arab,"(1996-01-31)January 31, 1996 (aged 30)",FC Seoul
+39,6,3MF,Amer Jamous,"(2002-07-03)July 3, 2002 (aged 23)",Al-Zawraa
+39,7,4FW,Mohammad Abu Zrayq,"(1997-12-30)December 30, 1997 (aged 28)",Raja Casablanca
+39,8,3MF,Noor Al-Rawabdeh,"(1997-02-24)February 24, 1997 (aged 29)",Selangor
+39,9,4FW,Ali Olwan,"(2000-03-26)March 26, 2000 (aged 26)",Al-Sailiya
+39,10,4FW,Musa Al-Taamari,"(1997-06-10)June 10, 1997 (aged 29)",Rennes
+39,11,4FW,Odeh Al-Fakhouri,"(2005-11-22)November 22, 2005 (aged 20)",Pyramids
+39,12,1GK,Nour Bani Attiah,"(1993-01-25)January 25, 1993 (aged 33)",Al-Faisaly
+39,13,4FW,Mahmoud Al-Mardi,"(1993-10-06)October 6, 1993 (aged 32)",Al-Hussein
+39,14,3MF,Rajaei Ayed,"(1993-07-25)July 25, 1993 (aged 32)",Al-Hussein
+39,15,3MF,Ibrahim Sadeh,"(2000-04-27)April 27, 2000 (aged 26)",Al-Karma
+39,16,2DF,Mo Abualnadi,"(2001-02-08)February 8, 2001 (aged 25)",Selangor
+39,17,2DF,Salim Obaid,"(1992-01-17)January 17, 1992 (aged 34)",Al-Hussein
+39,18,3MF,Mohammad Taha,"(2005-07-13)July 13, 2005 (aged 20)",Al-Hussein
+39,19,2DF,Saed Al-Rosan,"(1997-02-01)February 1, 1997 (aged 29)",Al-Hussein
+39,20,3MF,Mohannad Abu Taha,"(2003-02-02)February 2, 2003 (aged 23)",Al-Quwa Al-Jawiya
+39,21,3MF,Nizar Al-Rashdan,"(1999-03-23)March 23, 1999 (aged 27)",Qatar SC
+39,22,1GK,Abdallah Al-Fakhouri,"(2000-01-22)January 22, 2000 (aged 26)",Al-Wehdat
+39,23,2DF,Ihsan Haddad (captain),"(1994-02-05)February 5, 1994 (aged 32)",Al-Hussein
+39,24,4FW,Ali Azaizeh,"(2004-04-13)April 13, 2004 (aged 22)",Al-Shabab
+39,25,3MF,Mohammad Al-Dawoud,"(1992-04-12)April 12, 1992 (aged 34)",Al-Wehdat
+39,26,2DF,Anas Badawi,"(1997-09-13)September 13, 1997 (aged 28)",Al-Faisaly
+40,1,1GK,David Ospina,"(1988-08-31)August 31, 1988 (aged 37)",Atlético Nacional
+40,2,2DF,Daniel Muñoz,"(1996-05-26)May 26, 1996 (aged 30)",Crystal Palace
+40,3,2DF,Jhon Lucumí,"(1998-06-26)June 26, 1998 (aged 27)",Bologna
+40,4,2DF,Santiago Arias,"(1992-01-13)January 13, 1992 (aged 34)",Independiente
+40,5,3MF,Kevin Castaño,"(2000-09-29)September 29, 2000 (aged 25)",River Plate
+40,6,3MF,Richard Ríos,"(2000-06-02)June 2, 2000 (aged 26)",Benfica
+40,7,4FW,Luis Díaz,"(1997-01-13)January 13, 1997 (aged 29)",Bayern Munich
+40,8,3MF,Jorge Carrascal,"(1998-05-25)May 25, 1998 (aged 28)",Flamengo
+40,9,4FW,Jhon Córdoba,"(1993-05-11)May 11, 1993 (aged 33)",Krasnodar
+40,10,3MF,James Rodríguez (captain),"(1991-07-12)July 12, 1991 (aged 34)",Minnesota United FC
+40,11,3MF,Jhon Arias,"(1997-09-21)September 21, 1997 (aged 28)",Palmeiras
+40,12,1GK,Camilo Vargas,"(1989-03-09)March 9, 1989 (aged 37)",Atlas
+40,13,2DF,Yerry Mina,"(1994-09-23)September 23, 1994 (aged 31)",Cagliari
+40,14,2DF,Gustavo Puerta,"(2003-07-23)July 23, 2003 (aged 22)",Racing Santander
+40,15,3MF,Juan Portilla,"(1998-09-12)September 12, 1998 (aged 27)",Athletico Paranaense
+40,16,3MF,Jefferson Lerma,"(1994-10-25)October 25, 1994 (aged 31)",Crystal Palace
+40,17,2DF,Johan Mojica,"(1992-08-21)August 21, 1992 (aged 33)",Mallorca
+40,18,2DF,Willer Ditta,"(1998-01-23)January 23, 1998 (aged 28)",Cruz Azul
+40,19,4FW,Cucho Hernández,"(1999-04-20)April 20, 1999 (aged 27)",Real Betis
+40,20,3MF,Juan Fernando Quintero,"(1993-01-18)January 18, 1993 (aged 33)",River Plate
+40,21,4FW,Jaminton Campaz,"(2000-05-24)May 24, 2000 (aged 26)",Rosario Central
+40,22,2DF,Deiver Machado,"(1993-09-02)September 2, 1993 (aged 32)",Nantes
+40,23,2DF,Davinson Sánchez,"(1996-06-12)June 12, 1996 (aged 29)",Galatasaray
+40,24,1GK,Álvaro Montero,"(1995-03-29)March 29, 1995 (aged 31)",Vélez Sarsfield
+40,25,4FW,Luis Suárez,"(1997-12-02)December 2, 1997 (aged 28)",Sporting CP
+40,26,4FW,Andrés Gómez,"(2002-09-12)September 12, 2002 (aged 23)",Vasco da Gama
+41,1,1GK,Lionel Mpasi,"(1994-08-01)August 1, 1994 (aged 31)",Le Havre
+41,2,2DF,Aaron Wan-Bissaka,"(1997-11-26)November 26, 1997 (aged 28)",West Ham United
+41,3,2DF,Steve Kapuadi,"(1998-04-30)April 30, 1998 (aged 28)",Widzew Łódź
+41,4,2DF,Axel Tuanzebe,"(1997-11-14)November 14, 1997 (aged 28)",Burnley
+41,5,2DF,Dylan Batubinsika,"(1996-02-15)February 15, 1996 (aged 30)",AEL
+41,6,3MF,Ngal'ayel Mukau,"(2004-11-03)November 3, 2004 (aged 21)",Lille
+41,7,3MF,Nathanaël Mbuku,"(2002-03-16)March 16, 2002 (aged 24)",Montpellier
+41,8,3MF,Samuel Moutoussamy,"(1996-08-12)August 12, 1996 (aged 29)",Atromitos
+41,9,4FW,Brian Cipenga,"(1998-03-11)March 11, 1998 (aged 28)",Castellón
+41,10,3MF,Théo Bongonda,"(1995-11-20)November 20, 1995 (aged 30)",Spartak Moscow
+41,11,4FW,Gaël Kakuta,"(1991-06-21)June 21, 1991 (aged 34)",AEL
+41,12,2DF,Joris Kayembe,"(1994-08-08)August 8, 1994 (aged 31)",Genk
+41,13,4FW,Meschak Elia,"(1997-08-06)August 6, 1997 (aged 28)",Alanyaspor
+41,14,3MF,Noah Sadiki,"(2004-12-17)December 17, 2004 (aged 21)",Sunderland
+41,15,3MF,Aaron Tshibola,"(1995-01-02)January 2, 1995 (aged 31)",Kilmarnock
+41,16,1GK,Timothy Fayulu,"(1999-07-24)July 24, 1999 (aged 26)",Noah
+41,17,4FW,Cédric Bakambu,"(1991-04-11)April 11, 1991 (aged 35)",Real Betis
+41,18,3MF,Charles Pickel,"(1997-05-15)May 15, 1997 (aged 29)",Espanyol
+41,19,4FW,Fiston Mayele,"(1994-06-24)June 24, 1994 (aged 31)",Pyramids
+41,20,4FW,Yoane Wissa,"(1996-09-03)September 3, 1996 (aged 29)",Newcastle United
+41,21,1GK,Matthieu Epolo,"(2005-01-15)January 15, 2005 (aged 21)",Standard Liège
+41,22,2DF,Chancel Mbemba (captain),"(1994-08-08)August 8, 1994 (aged 31)",Lille
+41,23,4FW,Simon Banza,"(1996-08-13)August 13, 1996 (aged 29)",Al Jazira
+41,24,2DF,Gédéon Kalulu,"(1997-08-29)August 29, 1997 (aged 28)",Aris Limassol
+41,25,3MF,Edo Kayembe,"(1998-06-03)June 3, 1998 (aged 28)",Watford
+41,26,2DF,Arthur Masuaku,"(1993-11-07)November 7, 1993 (aged 32)",Lens
+42,1,1GK,Diogo Costa,"(1999-09-19)September 19, 1999 (aged 26)",Porto
+42,2,2DF,Nélson Semedo,"(1993-11-16)November 16, 1993 (aged 32)",Fenerbahçe
+42,3,2DF,Rúben Dias,"(1997-05-14)May 14, 1997 (aged 29)",Manchester City
+42,4,2DF,Tomás Araújo,"(2002-05-16)May 16, 2002 (aged 24)",Benfica
+42,5,2DF,Diogo Dalot,"(1999-03-18)March 18, 1999 (aged 27)",Manchester United
+42,6,3MF,Matheus Nunes,"(1998-08-27)August 27, 1998 (aged 27)",Manchester City
+42,7,4FW,Cristiano Ronaldo (captain),"(1985-02-05)February 5, 1985 (aged 41)",Al-Nassr
+42,8,3MF,Bruno Fernandes,"(1994-09-08)September 8, 1994 (aged 31)",Manchester United
+42,9,4FW,Gonçalo Ramos,"(2001-06-20)June 20, 2001 (aged 24)",Paris Saint-Germain
+42,10,3MF,Bernardo Silva,"(1994-08-10)August 10, 1994 (aged 31)",Manchester City
+42,11,4FW,João Félix,"(1999-11-10)November 10, 1999 (aged 26)",Al-Nassr
+42,12,1GK,José Sá,"(1993-01-17)January 17, 1993 (aged 33)",Wolverhampton Wanderers
+42,13,2DF,Renato Veiga,"(2003-07-29)July 29, 2003 (aged 22)",Villarreal
+42,14,2DF,Gonçalo Inácio,"(2001-08-25)August 25, 2001 (aged 24)",Sporting CP
+42,15,3MF,João Neves,"(2004-09-27)September 27, 2004 (aged 21)",Paris Saint-Germain
+42,16,4FW,Francisco Trincão,"(1999-12-29)December 29, 1999 (aged 26)",Sporting CP
+42,17,4FW,Rafael Leão,"(1999-06-10)June 10, 1999 (aged 27)",Milan
+42,18,4FW,Pedro Neto,"(2000-03-09)March 9, 2000 (aged 26)",Chelsea
+42,19,4FW,Gonçalo Guedes,"(1996-11-29)November 29, 1996 (aged 29)",Real Sociedad
+42,20,2DF,João Cancelo,"(1994-05-27)May 27, 1994 (aged 32)",Barcelona
+42,21,3MF,Rúben Neves,"(1997-03-13)March 13, 1997 (aged 29)",Al-Hilal
+42,22,1GK,Rui Silva,"(1994-02-07)February 7, 1994 (aged 32)",Sporting CP
+42,23,3MF,Vitinha,"(2000-02-13)February 13, 2000 (aged 26)",Paris Saint-Germain
+42,24,2DF,Samú Costa,"(2000-11-27)November 27, 2000 (aged 25)",Mallorca
+42,25,2DF,Nuno Mendes,"(2002-06-19)June 19, 2002 (aged 23)",Paris Saint-Germain
+42,26,4FW,Francisco Conceição,"(2002-12-14)December 14, 2002 (aged 23)",Juventus
+43,1,1GK,Utkir Yusupov,"(1991-01-04)January 4, 1991 (aged 35)",Navbahor Namangan
+43,2,2DF,Abdukodir Khusanov,"(2004-02-29)February 29, 2004 (aged 22)",Manchester City
+43,3,2DF,Khojiakbar Alijonov,"(1997-04-19)April 19, 1997 (aged 29)",Pakhtakor
+43,4,2DF,Farrukh Sayfiev,"(1991-01-17)January 17, 1991 (aged 35)",Neftchi Fergana
+43,5,2DF,Rustam Ashurmatov,"(1996-07-07)July 7, 1996 (aged 29)",Esteghlal
+43,6,3MF,Akmal Mozgovoy,"(1999-04-02)April 2, 1999 (aged 27)",Pakhtakor
+43,7,3MF,Otabek Shukurov,"(1996-06-22)June 22, 1996 (aged 29)",Baniyas
+43,8,3MF,Jamshid Iskanderov,"(1993-10-16)October 16, 1993 (aged 32)",Neftchi Fergana
+43,9,3MF,Odiljon Hamrobekov,"(1996-02-13)February 13, 1996 (aged 30)",Tractor
+43,10,3MF,Jaloliddin Masharipov,"(1993-09-01)September 1, 1993 (aged 32)",Esteghlal
+43,11,3MF,Oston Urunov,"(2000-12-19)December 19, 2000 (aged 25)",Persepolis
+43,12,1GK,Abduvohid Nematov,"(2001-03-20)March 20, 2001 (aged 25)",Nasaf
+43,13,2DF,Sherzod Nasrullaev,"(1998-07-23)July 23, 1998 (aged 27)",Nasaf
+43,14,4FW,Eldor Shomurodov (captain),"(1995-06-29)June 29, 1995 (aged 30)",İstanbul Başakşehir
+43,15,2DF,Umar Eshmurodov,"(1992-11-30)November 30, 1992 (aged 33)",Nasaf
+43,16,1GK,Botirali Ergashev,"(1995-06-23)June 23, 1995 (aged 30)",Neftchi Fergana
+43,17,3MF,Dostonbek Khamdamov,"(1996-07-24)July 24, 1996 (aged 29)",Pakhtakor
+43,18,2DF,Abdulla Abdullaev,"(1997-09-01)September 1, 1997 (aged 28)",Dibba
+43,19,3MF,Azizjon Ganiev,"(1998-02-22)February 22, 1998 (aged 28)",Al Bataeh
+43,20,4FW,Azizbek Amonov,"(1997-10-30)October 30, 1997 (aged 28)",Dinamo Samarqand
+43,21,4FW,Igor Sergeev,"(1993-04-30)April 30, 1993 (aged 33)",Persepolis
+43,22,3MF,Abbosbek Fayzullaev,"(2003-10-03)October 3, 2003 (aged 22)",İstanbul Başakşehir
+43,23,3MF,Sherzod Esanov,"(2003-02-01)February 1, 2003 (aged 23)",Bukhara
+43,24,2DF,Bekhruz Karimov,"(2007-08-07)August 7, 2007 (aged 18)",Surkhon Termiz
+43,25,2DF,Avazbek Ulmasaliev,"(2000-03-27)March 27, 2000 (aged 26)",AGMK
+43,26,2DF,Jakhongir Urozov,"(2004-01-18)January 18, 2004 (aged 22)",Dinamo Samarqand
+44,1,1GK,Dominik Livaković,"(1995-01-09)January 9, 1995 (aged 31)",Dinamo Zagreb
+44,2,2DF,Josip Stanišić,"(2000-04-02)April 2, 2000 (aged 26)",Bayern Munich
+44,3,2DF,Marin Pongračić,"(1997-09-11)September 11, 1997 (aged 28)",Fiorentina
+44,4,2DF,Joško Gvardiol,"(2002-01-23)January 23, 2002 (aged 24)",Manchester City
+44,5,2DF,Duje Ćaleta-Car,"(1996-09-17)September 17, 1996 (aged 29)",Real Sociedad
+44,6,2DF,Josip Šutalo,"(2000-02-28)February 28, 2000 (aged 26)",Ajax
+44,7,3MF,Nikola Moro,"(1998-03-12)March 12, 1998 (aged 28)",Bologna
+44,8,3MF,Mateo Kovačić,"(1994-05-06)May 6, 1994 (aged 32)",Manchester City
+44,9,4FW,Andrej Kramarić,"(1991-06-19)June 19, 1991 (aged 34)",TSG Hoffenheim
+44,10,3MF,Luka Modrić (captain),"(1985-09-09)September 9, 1985 (aged 40)",Milan
+44,11,4FW,Ante Budimir,"(1991-07-22)July 22, 1991 (aged 34)",Osasuna
+44,12,1GK,Ivor Pandur,"(2000-03-25)March 25, 2000 (aged 26)",Hull City
+44,13,3MF,Nikola Vlašić,"(1997-10-04)October 4, 1997 (aged 28)",Torino
+44,14,4FW,Ivan Perišić,"(1989-02-02)February 2, 1989 (aged 37)",PSV Eindhoven
+44,15,3MF,Mario Pašalić,"(1995-02-09)February 9, 1995 (aged 31)",Atalanta
+44,16,3MF,Martin Baturina,"(2003-02-16)February 16, 2003 (aged 23)",Como
+44,17,3MF,Petar Sučić,"(2003-10-25)October 25, 2003 (aged 22)",Inter Milan
+44,18,2DF,Kristijan Jakić,"(1997-05-14)May 14, 1997 (aged 29)",FC Augsburg
+44,19,3MF,Toni Fruk,"(2001-03-09)March 9, 2001 (aged 25)",Rijeka
+44,20,4FW,Igor Matanović,"(2003-03-31)March 31, 2003 (aged 23)",SC Freiburg
+44,21,3MF,Luka Sučić,"(2002-09-08)September 8, 2002 (aged 23)",Real Sociedad
+44,22,2DF,Luka Vušković,"(2007-02-24)February 24, 2007 (aged 19)",Hamburger SV
+44,23,1GK,Dominik Kotarski,"(2000-02-10)February 10, 2000 (aged 26)",Copenhagen
+44,24,4FW,Marco Pašalić,"(2000-09-14)September 14, 2000 (aged 25)",Orlando City SC
+44,25,2DF,Martin Erlić,"(1998-01-24)January 24, 1998 (aged 28)",Midtjylland
+44,26,4FW,Petar Musa,"(1998-03-04)March 4, 1998 (aged 28)",FC Dallas
+45,1,1GK,Jordan Pickford,"(1994-03-07)March 7, 1994 (aged 32)",Everton
+45,2,2DF,Ezri Konsa,"(1997-10-23)October 23, 1997 (aged 28)",Aston Villa
+45,3,2DF,Nico O'Reilly,"(2005-03-21)March 21, 2005 (aged 21)",Manchester City
+45,4,3MF,Declan Rice,"(1999-01-14)January 14, 1999 (aged 27)",Arsenal
+45,5,2DF,John Stones,"(1994-05-28)May 28, 1994 (aged 32)",Manchester City
+45,6,2DF,Marc Guéhi,"(2000-07-13)July 13, 2000 (aged 25)",Manchester City
+45,7,4FW,Bukayo Saka,"(2001-09-05)September 5, 2001 (aged 24)",Arsenal
+45,8,3MF,Elliot Anderson,"(2002-11-06)November 6, 2002 (aged 23)",Nottingham Forest
+45,9,4FW,Harry Kane (captain),"(1993-07-28)July 28, 1993 (aged 32)",Bayern Munich
+45,10,3MF,Jude Bellingham,"(2003-06-29)June 29, 2003 (aged 22)",Real Madrid
+45,11,4FW,Marcus Rashford,"(1997-10-31)October 31, 1997 (aged 28)",Barcelona
+45,12,2DF,Tino Livramento,"(2002-11-12)November 12, 2002 (aged 23)",Newcastle United
+45,13,1GK,Dean Henderson,"(1997-03-12)March 12, 1997 (aged 29)",Crystal Palace
+45,14,3MF,Jordan Henderson,"(1990-06-17)June 17, 1990 (aged 35)",Brentford
+45,15,2DF,Dan Burn,"(1992-05-09)May 9, 1992 (aged 34)",Newcastle United
+45,16,3MF,Kobbie Mainoo,"(2005-04-19)April 19, 2005 (aged 21)",Manchester United
+45,17,3MF,Morgan Rogers,"(2002-07-26)July 26, 2002 (aged 23)",Aston Villa
+45,18,4FW,Anthony Gordon,"(2001-02-24)February 24, 2001 (aged 25)",Newcastle United
+45,19,4FW,Ollie Watkins,"(1995-12-30)December 30, 1995 (aged 30)",Aston Villa
+45,20,4FW,Noni Madueke,"(2002-03-10)March 10, 2002 (aged 24)",Arsenal
+45,21,3MF,Eberechi Eze,"(1998-06-29)June 29, 1998 (aged 27)",Arsenal
+45,22,4FW,Ivan Toney,"(1996-03-16)March 16, 1996 (aged 30)",Al-Ahli
+45,23,1GK,James Trafford,"(2002-10-10)October 10, 2002 (aged 23)",Manchester City
+45,24,2DF,Reece James,"(1999-12-08)December 8, 1999 (aged 26)",Chelsea
+45,25,2DF,Djed Spence,"(2000-08-09)August 9, 2000 (aged 25)",Tottenham Hotspur
+45,26,2DF,Jarell Quansah,"(2003-01-29)January 29, 2003 (aged 23)",Bayer Leverkusen
+46,1,1GK,Lawrence Ati-Zigi,"(1996-11-29)November 29, 1996 (aged 29)",St. Gallen
+46,2,2DF,Alidu Seidu,"(2000-06-04)June 4, 2000 (aged 26)",Rennes
+46,3,3MF,Caleb Yirenkyi,"(2006-01-15)January 15, 2006 (aged 20)",Nordsjælland
+46,4,2DF,Jonas Adjetey,"(2003-12-13)December 13, 2003 (aged 22)",VfL Wolfsburg
+46,5,3MF,Thomas Partey,"(1993-06-13)June 13, 1993 (aged 32)",Villarreal
+46,6,2DF,Abdul Mumin,"(1998-06-06)June 6, 1998 (aged 28)",Rayo Vallecano
+46,7,4FW,Abdul Fatawu,"(2004-03-08)March 8, 2004 (aged 22)",Leicester City
+46,8,3MF,Kwasi Sibo,"(1998-06-24)June 24, 1998 (aged 27)",Oviedo
+46,9,4FW,Jordan Ayew (captain),"(1991-09-11)September 11, 1991 (aged 34)",Leicester City
+46,10,4FW,Brandon Thomas-Asante,"(1998-12-29)December 29, 1998 (aged 27)",Coventry City
+46,11,3MF,Antoine Semenyo,"(2000-01-07)January 7, 2000 (aged 26)",Manchester City
+46,12,1GK,Joseph Anang,"(2000-06-08)June 8, 2000 (aged 26)",St Patrick's Athletic
+46,13,4FW,Christopher Bonsu Baah,"(2004-12-14)December 14, 2004 (aged 21)",Al-Qadsiah
+46,14,2DF,Gideon Mensah,"(1998-07-18)July 18, 1998 (aged 27)",Auxerre
+46,15,3MF,Elisha Owusu,"(1997-11-07)November 7, 1997 (aged 28)",Auxerre
+46,16,1GK,Benjamin Asare,"(1992-07-13)July 13, 1992 (aged 33)",Hearts of Oak
+46,17,2DF,Abdul Rahman Baba,"(1994-07-02)July 2, 1994 (aged 31)",PAOK
+46,18,2DF,Jerome Opoku,"(1998-10-14)October 14, 1998 (aged 27)",İstanbul Başakşehir
+46,19,4FW,Iñaki Williams,"(1994-06-15)June 15, 1994 (aged 31)",Athletic Bilbao
+46,20,3MF,Augustine Boakye,"(2000-11-03)November 3, 2000 (aged 25)",Saint-Étienne
+46,21,2DF,Kojo Peprah Oppong,"(2004-06-04)June 4, 2004 (aged 22)",Nice
+46,22,4FW,Kamaldeen Sulemana,"(2002-02-15)February 15, 2002 (aged 24)",Atalanta
+46,23,2DF,Derrick Luckassen,"(1995-07-03)July 3, 1995 (aged 30)",Pafos
+46,24,4FW,Ernest Nuamah,"(2003-11-01)November 1, 2003 (aged 22)",Lyon
+46,25,4FW,Prince Kwabena Adu,"(2003-09-23)September 23, 2003 (aged 22)",Viktoria Plzeň
+46,26,2DF,Marvin Senaya,"(2001-01-28)January 28, 2001 (aged 25)",Auxerre
+47,1,1GK,Luis Mejía,"(1991-03-16)March 16, 1991 (aged 35)",Nacional
+47,2,2DF,César Blackman,"(1998-04-02)April 2, 1998 (aged 28)",Slovan Bratislava
+47,3,2DF,José Córdoba,"(2001-06-03)June 3, 2001 (aged 25)",Norwich City
+47,4,2DF,Fidel Escobar,"(1995-01-09)January 9, 1995 (aged 31)",Saprissa
+47,5,2DF,Edgardo Fariña,"(2001-10-19)October 19, 2001 (aged 24)",Pari Nizhny Novgorod
+47,6,3MF,Cristian Martínez,"(1997-02-06)February 6, 1997 (aged 29)",Ironi Kiryat Shmona
+47,7,3MF,José Luis Rodríguez,"(1998-06-19)June 19, 1998 (aged 27)",Juárez
+47,8,3MF,Adalberto Carrasquilla,"(1998-11-28)November 28, 1998 (aged 27)",Pumas UNAM
+47,9,4FW,Tomás Rodríguez,"(1999-03-09)March 9, 1999 (aged 27)",Saprissa
+47,10,3MF,Ismael Díaz,"(1997-05-12)May 12, 1997 (aged 29)",León
+47,11,3MF,Yoel Bárcenas,"(1993-10-23)October 23, 1993 (aged 32)",Mazatlán
+47,12,1GK,César Samudio,"(1994-02-23)February 23, 1994 (aged 32)",Marathón
+47,13,2DF,Jiovany Ramos,"(1997-01-26)January 26, 1997 (aged 29)",Puerto Cabello
+47,14,2DF,Carlos Harvey,"(2000-02-03)February 3, 2000 (aged 26)",Minnesota United FC
+47,15,2DF,Eric Davis,"(1991-03-31)March 31, 1991 (aged 35)",Plaza Amador
+47,16,2DF,Andrés Andrade,"(1998-10-16)October 16, 1998 (aged 27)",LASK
+47,17,4FW,José Fajardo,"(1993-08-18)August 18, 1993 (aged 32)",Universidad Católica
+47,18,4FW,Cecilio Waterman,"(1991-04-13)April 13, 1991 (aged 35)",Universidad de Concepción
+47,19,3MF,Alberto Quintero,"(1987-12-18)December 18, 1987 (aged 38)",Plaza Amador
+47,20,3MF,Aníbal Godoy (captain),"(1990-02-10)February 10, 1990 (aged 36)",San Diego FC
+47,21,3MF,César Yanis,"(1996-01-28)January 28, 1996 (aged 30)",Cobresal
+47,22,1GK,Orlando Mosquera,"(1994-12-25)December 25, 1994 (aged 31)",Al-Fayha
+47,23,2DF,Michael Amir Murillo,"(1996-02-11)February 11, 1996 (aged 30)",Beşiktaş
+47,24,4FW,Azarias Londoño,"(2001-06-21)June 21, 2001 (aged 24)",Universidad Católica
+47,25,2DF,Roderick Miller,"(1992-04-03)April 3, 1992 (aged 34)",Turan Tovuz
+47,26,2DF,Jorge Gutiérrez,"(1998-09-01)September 1, 1998 (aged 27)",Deportivo La Guaira
