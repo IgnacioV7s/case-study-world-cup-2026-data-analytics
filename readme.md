@@ -14,3 +14,8 @@ Este proyecto aplica el ciclo completo de análisis de datos para extraer, limpi
 * `2_limpieza_datos.ipynb`: Pipeline de transformación con Pandas (separación de fechas, edades y limpieza de roles).
 * `3_analisis_sql.ipynb`: Entorno de base de datos relacional con las queries técnicas y el **Resumen Ejecutivo**.
 * `datos_crudos_mundial.csv` & `plantillas_limpias_mundial2026.csv`: Los datasets antes y después del procesamiento.
+
+
+## 📊 Dashboard Interactivo en Power BI
+Aquí una vista previa del reporte ejecutivo con los principales insights demográficos y de concentración de clubes para el torneo:
+![Dashboard Ejecutivo Mundial 2026](<img width="1341" height="747" alt="image" src="https://github.com/user-attachments/assets/a1387ea6-a2f0-4ec7-b586-db29cb4ad4b6" />)
